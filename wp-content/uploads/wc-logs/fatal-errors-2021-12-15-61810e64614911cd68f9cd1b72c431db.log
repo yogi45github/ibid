@@ -1,0 +1,208 @@
+2021-12-15T07:15:59+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 149
+
+2021-12-15T07:16:36+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 149
+
+2021-12-15T07:17:09+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 150
+
+2021-12-15T07:23:16+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+
+2021-12-15T07:26:29+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+
+2021-12-15T07:28:23+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+
+2021-12-15T07:29:59+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+
+2021-12-15T07:30:29+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:30:30+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:30:30+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:30:31+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:30:51+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:31:07+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:32:05+00:00 CRITICAL syntax error, unexpected '$array2' (T_VARIABLE), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 154
+
+2021-12-15T07:32:07+00:00 CRITICAL syntax error, unexpected '$array2' (T_VARIABLE), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 154
+
+2021-12-15T07:32:46+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:32:47+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:32:47+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:32:48+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:33:00+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:33:01+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:33:02+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:33:02+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:33:02+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 155
+
+2021-12-15T07:39:35+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:39:46+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:39:47+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:39:47+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:39:48+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:39:48+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:40:51+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:40:53+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:40:53+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:40:53+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:40:53+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:01+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:02+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:03+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:04+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:05+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:05+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:20+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:22+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:22+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:22+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:22+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:24+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:24+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T07:42:25+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T12:01:24+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 288
+
+2021-12-15T12:01:24+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 288
+
+2021-12-15T12:01:25+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 288
+
+2021-12-15T12:01:27+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 288
+
+2021-12-15T12:02:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_id() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-15T12:02:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_id() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-15T12:02:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_id() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-15T12:02:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_id() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-15T12:19:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:19:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:19:35+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:20:06+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:20:07+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:20:08+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:20:10+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 179
+
+2021-12-15T12:20:52+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:152
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-15T12:21:51+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 154
+
+2021-12-15T12:21:53+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 154
+
+2021-12-15T12:21:54+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 154
+

@@ -1,0 +1,19 @@
+2021-12-01T10:37:17+00:00 CRITICAL Uncaught Error: Call to undefined function php_mail() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:506
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-settings.php(546): include()
+#1 /var/www/html/php72/ibid1/wp-config.php(107): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/wp-load.php(50): require_once('/var/www/html/p...')
+#3 /var/www/html/php72/ibid1/wp-blog-header.php(13): require_once('/var/www/html/p...')
+#4 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#5 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 506
+
+2021-12-01T10:37:33+00:00 CRITICAL Uncaught Error: Call to undefined function php_mail() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:506
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-settings.php(546): include()
+#1 /var/www/html/php72/ibid1/wp-config.php(107): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/wp-load.php(50): require_once('/var/www/html/p...')
+#3 /var/www/html/php72/ibid1/wp-admin/admin-ajax.php(22): require_once('/var/www/html/p...')
+#4 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 506
+

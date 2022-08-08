@@ -1,0 +1,22 @@
+2021-10-27T11:31:20+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php:1125
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/shortcodes.php(356): ls_auction_filters('', '', 'searchauction')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/php72/ibid/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(search...', 'do_shortcode_ta...', '[searchauction]...')
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(305): do_shortcode('[searchauction]...')
+#4 /var/www/html/php72/ibid/wp-includes/plugin.php(189): WP_Hook->apply_filters('[searchauction]...', Array)
+#5 /var/www/html/php72/ibid/wp-includes/widgets/class-wp-widget-text.php(296): apply_filters('widget_text_con...', '[searchauction]', Array, Object(WP_Widget_Text))
+#6 /var/www/html/php72/ibid/wp-includes/class-wp-widget.php(393): WP_Widget_Text->widget(Array, Array)
+#7 /var/www/html/php72/ibid/wp-includes/widgets.php(831): WP_Widget->display_callback(Arr in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1125
+
+2021-10-27T11:31:32+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php:1125
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/shortcodes.php(356): ls_auction_filters('', '', 'searchauction')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/php72/ibid/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(search...', 'do_shortcode_ta...', '[searchauction]...')
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(305): do_shortcode('[searchauction]...')
+#4 /var/www/html/php72/ibid/wp-includes/plugin.php(189): WP_Hook->apply_filters('[searchauction]...', Array)
+#5 /var/www/html/php72/ibid/wp-includes/widgets/class-wp-widget-text.php(296): apply_filters('widget_text_con...', '[searchauction]', Array, Object(WP_Widget_Text))
+#6 /var/www/html/php72/ibid/wp-includes/class-wp-widget.php(393): WP_Widget_Text->widget(Array, Array)
+#7 /var/www/html/php72/ibid/wp-includes/widgets.php(831): WP_Widget->display_callback(Arr in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1125
+

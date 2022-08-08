@@ -1,0 +1,128 @@
+.apf-upper-section-logo {
+    display: flex;
+}
+
+.apf-upper-section-logo img {
+    vertical-align: middle;
+}
+
+.apf-upper-section-logo .apf-main-title-inner {
+    display: inline-block;
+    padding: 36px 24px;
+}
+
+.apf-upper-section-logo .apf-main-title-inner p{
+    color: #646970;
+}
+
+
+.apf-backend-container {
+    background-color: #fff;
+    width: 1032px;
+    margin: 15px auto;
+    margin-bottom: 24px;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+    transition: box-shadow 0.2s cubic-bezier(0.4, 1, 0.4, 1);
+}
+
+.apf-backend-title {
+    padding: 16px 24px;
+    border-bottom: 1px solid #e2e4e7;
+}
+
+.ns-apf-main-title {
+    line-height: 28px;
+    font-weight: 400;
+    margin: 0px;
+    color: #444;
+    font-size: 20px;
+}
+
+.ns-apf-title-description {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-top: 4px;
+    color: #646970;
+    margin-bottom: 0px;
+}
+
+.apf-backend-body {
+    padding: 16px 24px;
+}
+
+.apf-backend-body h3 {
+    color: #23282d;
+    margin: -2px 0 5px;
+    font-size: 16px;
+    line-height: 1.3;
+}
+
+.apf-backend-body p {
+    color: #646970;
+}
+
+.apf-backend-body label {
+    font-weight: bold;
+    font-size: smaller;
+    color: #646970;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+/* Tooltip */
+.apf-tooltip {
+    position: relative;
+    color: #666;
+    display: inline-block !important;
+    font-size: 12px;
+    font-style: normal;
+    height: 16px;
+    line-height: 16px;
+    vertical-align: middle;
+    width: 16px !important;
+    margin: 0 0 0 9px;
+    text-align: center;
+    background-color: #666;
+    border-radius: 50px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.apf-tooltip .apf-tooltiptext {
+    visibility: hidden;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 50;
+    top: 150%;
+    left: 45%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: .8em;
+    width: 150px !important;
+    padding: .618em 1em;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+.apf-tooltip .apf-tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 40%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+}
+
+.apf-tooltip:hover .apf-tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}

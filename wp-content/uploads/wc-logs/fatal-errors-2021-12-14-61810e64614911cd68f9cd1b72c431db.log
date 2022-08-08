@@ -1,0 +1,68 @@
+2021-12-14T07:13:51+00:00 CRITICAL syntax error, unexpected ':' in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 142
+
+2021-12-14T07:16:03+00:00 CRITICAL Object of class WP_Query could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 144
+
+2021-12-14T07:19:27+00:00 CRITICAL Object of class WP_Query could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 144
+
+2021-12-14T07:19:44+00:00 CRITICAL Object of class WP_Query could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 144
+
+2021-12-14T07:41:45+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-14T07:42:06+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-14T07:42:10+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:146
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 146
+
+2021-12-14T08:35:47+00:00 CRITICAL Uncaught Error: Call to undefined function getLatLong() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:143
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 143
+
+2021-12-14T08:35:47+00:00 CRITICAL Uncaught Error: Call to undefined function getLatLong() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:143
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 143
+
+2021-12-14T08:36:18+00:00 CRITICAL Uncaught Error: Call to undefined function getLatLong() in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php:143
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid1/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid1/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 143
+
+2021-12-14T13:20:53+00:00 CRITICAL Cannot use [] for reading in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 170
+
+2021-12-14T13:42:04+00:00 CRITICAL syntax error, unexpected 'map' (T_STRING) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-14T13:42:05+00:00 CRITICAL syntax error, unexpected 'map' (T_STRING) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-14T13:42:05+00:00 CRITICAL syntax error, unexpected 'map' (T_STRING) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-12-14T14:45:13+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+
+2021-12-14T14:45:15+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/templates/template-blog.php on line 151
+

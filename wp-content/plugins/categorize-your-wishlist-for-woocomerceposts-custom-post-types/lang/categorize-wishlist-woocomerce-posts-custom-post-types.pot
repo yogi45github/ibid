@@ -1,0 +1,153 @@
+# Copyright (C) 2018 Categorize your Wishlist for Woocomerce,Posts & Custom Post Types 
+# This file is distributed under the same license as the EFavourite Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Categorize your Wishlist for Woocomerce,Posts & Custom Post Types 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/categorize-wishlist-woocomerce-posts-custom-post-types\n"
+"POT-Creation-Date: 2018-02-27 05:12:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  categorize-wishlist-woocomerce-posts-custom-post-types.pot (Categorize your Wishlist for Woocomerce,Posts & Custom Post Types 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: categorize-wishlist-woocomerce-posts-custom-post-types.php:363
+msgid "Categorize your Wishlist for Woocomerce,Posts & Custom Post Types"
+msgstr ""
+
+#: cwwpcpt-admin.php:5
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: cwwpcpt-admin.php:61
+msgid "Options saved."
+msgstr ""
+
+#: cwwpcpt-admin.php:64
+msgid "Categorize your Wishlist for Woocomerce,Posts & Custom Post Types Configuration"
+msgstr ""
+
+#: cwwpcpt-admin.php:77 cwwpcpt-admin.php:99 cwwpcpt-admin.php:248 cwwpcpt-admin.php:269
+msgid "Click to open/close"
+msgstr ""
+
+#: cwwpcpt-admin.php:80
+msgid "Do you use it ?"
+msgstr ""
+
+#: cwwpcpt-admin.php:102
+msgid "Options"
+msgstr ""
+
+#: cwwpcpt-admin.php:107
+msgid "Only <strong>registered users</strong> can favourite"
+msgstr ""
+
+#: cwwpcpt-admin.php:111
+msgid "Auto show favourite link"
+msgstr ""
+
+#: cwwpcpt-admin.php:123
+msgid "Before Link Image"
+msgstr ""
+
+#: cwwpcpt-admin.php:154
+msgid "Favourite post per page"
+msgstr ""
+
+#: cwwpcpt-admin.php:160
+msgid "Most favourited posts statics"
+msgstr ""
+
+#: cwwpcpt-admin.php:185 cwwpcpt-admin.php:240 cwwpcpt-admin.php:262
+msgid "Update options &raquo;"
+msgstr ""
+
+#: cwwpcpt-admin.php:197
+msgid "Label Settings"
+msgstr ""
+
+#: cwwpcpt-admin.php:203
+msgid "Text for add link"
+msgstr ""
+
+#: cwwpcpt-admin.php:206
+msgid "Text for added"
+msgstr ""
+
+#: cwwpcpt-admin.php:210
+msgid "Text for remove link"
+msgstr ""
+
+#: cwwpcpt-admin.php:213
+msgid "Text for removed"
+msgstr ""
+
+#: efav-admin.php:219
+msgid "Text for clear link"
+msgstr ""
+
+#: cwwpcpt-admin.php:222
+msgid "Text for cleared"
+msgstr ""
+
+#: cwwpcpt-admin.php:225
+msgid "Text for favourites are empty"
+msgstr ""
+
+#: cwwpcpt-admin.php:228
+msgid "Text for [remove] link"
+msgstr ""
+
+#: cwwpcpt-admin.php:231
+msgid "Text for favourites saved to cookies"
+msgstr ""
+
+#: cwwpcpt-admin.php:234
+msgid "Text for \"only registered users can favourite\" error message"
+msgstr ""
+
+#: cwwpcpt-admin.php:251
+msgid "Advanced Settings"
+msgstr ""
+
+#: cwwpcpt-admin.php:272
+msgid "Help"
+msgstr ""
+
+#: cwwpcpt-page-template.php:35
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: cwwpcpt-page-template.php:36
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: cwwpcpt-widgets.php:28 cwwpcpt-widgets.php:82
+msgid "Title:"
+msgstr ""
+
+#: cwwpcpt-widgets.php:33 cwwpcpt-widgets.php:87
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://excellentwebworld.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows users to add favourite posts. USer has to login for saving data "
+"so unregistered users cannot favourite a post. Put"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Paresh Sagar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://excellentwebworld.com/"
+msgstr ""

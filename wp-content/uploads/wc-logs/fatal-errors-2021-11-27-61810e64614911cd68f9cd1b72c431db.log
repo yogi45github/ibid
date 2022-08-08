@@ -1,0 +1,12 @@
+2021-11-27T08:15:36+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 644
+
+2021-11-27T08:54:02+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 655
+
+2021-11-27T08:54:02+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 655
+
+2021-11-27T08:54:02+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 655
+
+2021-11-27T08:54:02+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 655
+
+2021-11-27T08:54:03+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 655
+

@@ -1,0 +1,4 @@
+2021-11-18T13:42:10+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1159
+
+2021-11-18T13:42:43+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1159
+

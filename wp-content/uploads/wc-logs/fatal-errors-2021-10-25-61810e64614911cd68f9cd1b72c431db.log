@@ -1,0 +1,129 @@
+2021-10-25T08:18:18+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:21+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:31+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:32+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:32+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:32+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:33+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:40+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:41+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:18:42+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1480
+
+2021-10-25T08:22:19+00:00 CRITICAL Uncaught Error: Function name must be a string in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php:1615
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ls_blog_archive(Object(WP_Query))
+#1 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(Object(WP_Query), Array)
+#2 /var/www/html/php72/ibid/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(1784): do_action_ref_array('pre_get_posts', Array)
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#5 /var/www/html/php72/ibid/wp-includes/class-wp.php(629): WP_Query->query(Array)
+#6 /var/www/html/php72/ibid/wp-includes/class-wp.php(752): WP->query_posts()
+#7 /var/www/html/php72/ibid/wp-includes/functions.php(1291): WP->main('')
+#8 /var/www/html/php72/ibid/wp-blog-header.php(16): wp()
+#9 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#10 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1615
+
+2021-10-25T08:22:21+00:00 CRITICAL Uncaught Error: Function name must be a string in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php:1615
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ls_blog_archive(Object(WP_Query))
+#1 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(Object(WP_Query), Array)
+#2 /var/www/html/php72/ibid/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(1784): do_action_ref_array('pre_get_posts', Array)
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#5 /var/www/html/php72/ibid/wp-includes/class-wp.php(629): WP_Query->query(Array)
+#6 /var/www/html/php72/ibid/wp-includes/class-wp.php(752): WP->query_posts()
+#7 /var/www/html/php72/ibid/wp-includes/functions.php(1291): WP->main('')
+#8 /var/www/html/php72/ibid/wp-blog-header.php(16): wp()
+#9 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#10 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1615
+
+2021-10-25T08:27:25+00:00 CRITICAL Allowed memory size of 1077936128 bytes exhausted (tried to allocate 538972160 bytes) in /var/www/html/php72/ibid/wp-includes/class-wp-query.php on line 1073
+
+2021-10-25T08:29:18+00:00 CRITICAL Allowed memory size of 1077936128 bytes exhausted (tried to allocate 769658880 bytes) in /var/www/html/php72/ibid/wp-includes/class-wp-query.php on line 1073
+
+2021-10-25T08:29:28+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Query() in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php:1615
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ls_blog_archive(Object(WP_Query))
+#1 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(Object(WP_Query), Array)
+#2 /var/www/html/php72/ibid/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(1784): do_action_ref_array('pre_get_posts', Array)
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#5 /var/www/html/php72/ibid/wp-includes/class-wp.php(629): WP_Query->query(Array)
+#6 /var/www/html/php72/ibid/wp-includes/class-wp.php(752): WP->query_posts()
+#7 /var/www/html/php72/ibid/wp-includes/functions.php(1291): WP->main('')
+#8 /var/www/html/php72/ibid/wp-blog-header.php(16): wp()
+#9 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#10 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1615
+
+2021-10-25T10:11:56+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-10-25T10:11:58+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-10-25T10:11:59+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 152
+
+2021-10-25T10:12:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 153
+
+2021-10-25T10:12:36+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 153
+
+2021-10-25T10:12:36+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 153
+
+2021-10-25T10:12:56+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 153
+
+2021-10-25T10:14:06+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php:74
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/php72/ibid/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 74
+
+2021-10-25T12:45:21+00:00 CRITICAL Cannot use empty array elements in arrays in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 93
+
+2021-10-25T13:15:45+00:00 CRITICAL syntax error, unexpected '.', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 123
+
+2021-10-25T13:16:17+00:00 CRITICAL syntax error, unexpected '.', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 123
+
+2021-10-25T13:16:51+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 124
+
+2021-10-25T13:17:14+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 131
+
+2021-10-25T13:17:30+00:00 CRITICAL syntax error, unexpected ',' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/templates/template-blog.php on line 132
+
+2021-10-25T13:55:57+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:56:06+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:56:06+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:56:13+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:56:34+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:56:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:57:58+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:58:07+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:58:07+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:58:13+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:58:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:58:36+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+
+2021-10-25T13:59:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1323
+

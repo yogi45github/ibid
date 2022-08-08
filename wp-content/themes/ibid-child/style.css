@@ -1,0 +1,6 @@
+.woocommerce ul.products li.product a img , .page-template-template-blog .post-thumbnail img{
+    height: 200px !important;
+    object-fit: cover;
+    width: 100%;
+}
+.success_msz_ad_au{text-align: center !important; font-size: 17px !important; color: #257c7c !important;}

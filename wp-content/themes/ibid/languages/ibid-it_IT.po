@@ -1,0 +1,3045 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-30 13:45+0300\n"
+"PO-Revision-Date: 2020-11-17 16:50+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Eugenia Franzoni - Web42 Srl <eugenia@web42.it>\n"
+"Language: it_IT\n"
+"X-Poedit-Bookmarks: -1,26,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#: 404.php:18 404.php:20
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: category.php:40
+msgid "Category: "
+msgstr "Categoria: "
+
+#: comments.php:28 comments.php:63
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:29 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti precedenti"
+
+#: comments.php:30 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Commenti successivi &rarr;"
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "Comments: %1$s"
+msgstr[0] "One comment"
+msgstr[1] "Commenti: %1$s"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:82
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: comments.php:83
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Lascia una risposta a %s"
+
+#: comments.php:84
+msgid "Cancel reply"
+msgstr "Annulla risposta"
+
+#: comments.php:85
+msgid "Add comment"
+msgstr "Aggiungi commento"
+
+#: comments.php:87
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:93
+msgid "You must be "
+msgstr "Devi essere "
+
+#: comments.php:93
+msgid "logged in"
+msgstr "collegato"
+
+#: comments.php:93
+msgid "to post a comment."
+msgstr "per inviare un commento."
+
+#: comments.php:99
+msgid "Logged in as "
+msgstr "Collegato come "
+
+#: comments.php:99
+msgid "Log out of this account"
+msgstr "Scollegati da questo account"
+
+#: comments.php:99
+msgid "Log out?"
+msgstr "Esci?"
+
+#: comments.php:111
+msgid "Your comment"
+msgstr "Il tuo commento"
+
+#: comments.php:117
+msgid "Your name"
+msgstr "Il tuo nome"
+
+#: comments.php:121
+msgid "Your email"
+msgstr "La tua email"
+
+#: comments.php:125
+msgid "Your website"
+msgstr "Il tuo sito Web"
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto a pubblicare il tuo primo post? <a href=\"%1$s\">Inizia qui</a>."
+
+#: content-none.php:18 content-none.php:24
+msgid "Nothing Found"
+msgstr "﻿Nessun risultato trovato"
+
+#: content-none.php:20
+msgid "Try to search using another term via the form above"
+msgstr "Prova a cercare un altro termine usando il form qui sopra"
+
+#: content-none.php:25
+msgid "Try to search for posts via the form above"
+msgstr "Prova a cercare degli articoli usando il form qui sopra"
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non riusciamo a trovare quello che stai cercando. Forse la "
+"ricerca può aiutarti."
+
+#: content-page.php:17 content-single.php:91 content.php:80 content.php:153
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: content-page.php:24 inc/custom-comments.php:34 inc/custom-comments.php:45
+msgid "Edit"
+msgstr "Modifica"
+
+#: content-single.php:46
+msgid "Goal: "
+msgstr "Obiettivo: "
+
+#: content-single.php:100
+msgid "Tags:"
+msgstr "Tag:"
+
+#: content.php:74 content.php:146
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: footer.php:41
+msgid "Browse through our products library!"
+msgstr "Dai un'occhiata ai nostri prodotti!"
+
+#: footer.php:45 templates/header-template1.php:141
+#: templates/header-template2.php:183 templates/header-template5.php:70
+msgid "Search products..."
+msgstr "Cerca prodotti..."
+
+#: footer.php:124
+msgid "Copyright by ModelTheme. All Rights Reserved."
+msgstr "Copyright ModelTheme. Tutti i diritti riservati."
+
+#: footer.php:127
+msgid "Elite Author on ThemeForest"
+msgstr "Elite Author su ThemeForest"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: functions.php:58
+msgid "Header 2 Menu"
+msgstr "Menu header 2"
+
+#: functions.php:65
+msgid "Category Menu"
+msgstr "Menu categorie"
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:106
+msgid "Sidebar 1"
+msgstr "Barra laterale 1"
+
+#: functions.php:114
+msgid "WooCommerce sidebar"
+msgstr "Barra laterale WooCommerce"
+
+#: functions.php:116
+msgid "Used on WooCommerce pages"
+msgstr "Usata sulle pagine di WooCommerce"
+
+#: functions.php:146
+msgid "Footer "
+msgstr "Footer "
+
+#: functions.php:148
+msgid "Footer sidebar to show widgets by different column grid."
+msgstr ""
+"Barra laterale footer per visualizzare widget per una griglia a colonne."
+
+#: functions.php:333
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:363
+msgid "Shop"
+msgstr "Negozio"
+
+#: functions.php:410
+msgid "404 Not Found"
+msgstr "404-non trovato"
+
+#: functions.php:415
+msgid "Page"
+msgstr "Pagina"
+
+#: functions.php:426 templates/header-template1.php:158
+#: templates/header-template5.php:84
+msgid "View your shopping cart"
+msgstr "Visualizza carrello"
+
+#: functions.php:426 templates/header-template1.php:159
+#: templates/header-template5.php:84
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d elemento"
+msgstr[1] "%d elementi"
+
+#: functions.php:438 templates/header-template2.php:240
+#: templates/header-template3.php:127
+#, php-format
+msgid "(%d)"
+msgstr "(%d)"
+
+#: functions.php:452
+msgid "More from Vendor"
+msgstr "Altri prodotti del venditore"
+
+#: functions.php:503
+msgid "&#171;"
+msgstr "&#171;"
+
+#: functions.php:504
+msgid "&#187;"
+msgstr "&#187;"
+
+#: functions.php:573 functions.php:658 functions.php:678
+msgid "Quickview"
+msgstr "Quickview"
+
+#: functions.php:626
+msgid "Current Bid: "
+msgstr "Offerta corrente: "
+
+#: functions.php:628
+msgid "Starting bid: "
+msgstr "Offerta iniziale: "
+
+#: functions.php:631
+msgid "Auction Ended"
+msgstr "Asta terminata"
+
+#: functions.php:758
+msgid "Site Admin"
+msgstr "Amministratore sito"
+
+#: functions.php:759
+msgid "Edit Your Profile"
+msgstr "Modifica profilo"
+
+#: functions.php:769
+msgid "Log in"
+msgstr "Login"
+
+#: functions.php:770
+msgid "Login"
+msgstr "Accedi"
+
+#: functions.php:772 functions.php:773
+msgid "Log"
+msgstr "Log"
+
+#: header.php:32
+msgid "Login to Your Account"
+msgstr "Collegati al tuo account"
+
+#: header.php:40
+msgid "Username or Email Address"
+msgstr "Nome utente o indirizzo email"
+
+#: header.php:42 header.php:96
+msgid "Username"
+msgstr "Nome Utente"
+
+#: header.php:45 header.php:47
+msgid "Password"
+msgstr "Password"
+
+#: header.php:53
+msgid "Remember Me"
+msgstr "Ricordati di me"
+
+#: header.php:58
+msgid "Log In"
+msgstr "Accedi"
+
+#: header.php:63 header.php:116
+msgid "Register"
+msgstr "Registrati"
+
+#: header.php:66
+msgid "Registration is currently disabled"
+msgstr "Le registrazioni sono disattivate"
+
+#: header.php:69
+msgid "Lost your password?"
+msgstr "Password dimenticata?"
+
+#: header.php:76 header.php:124
+msgid "OR "
+msgstr "O "
+
+#: header.php:85
+msgid "Personal Details"
+msgstr "Dati anagrafici"
+
+#: header.php:100
+msgid "First name"
+msgstr "Nome"
+
+#: header.php:103
+msgid "Last name"
+msgstr "Cognome"
+
+#: header.php:106
+msgid "Email address"
+msgstr "Indirizzo email"
+
+#: header.php:118
+msgid "Back to Login"
+msgstr "Torna al login"
+
+#: index.php:47
+msgid "From the Blog"
+msgstr "Dal blog"
+
+#: search.php:39
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#: tag.php:40
+msgid "Tag: "
+msgstr "Tag: "
+
+#: dokan/products/new-product-single.php:8
+msgid "Access Denied, No product found"
+msgstr "Accesso negato, nessun prodotto trovato"
+
+#: dokan/products/new-product-single.php:32
+msgid "Access Denied"
+msgstr "Accesso negato"
+
+#: dokan/products/new-product-single.php:105
+#: wcfm/products-manager/wcfm-view-products-manage.php:457
+msgid "Edit Product"
+msgstr "Modifica prodotto"
+
+#: dokan/products/new-product-single.php:112
+msgid "View Product"
+msgstr "Visualizza prodotto"
+
+#: dokan/products/new-product-single.php:117
+msgid "Hidden"
+msgstr "Nascosto"
+
+#: dokan/products/new-product-single.php:128
+msgid "Error!"
+msgstr "﻿Errore!"
+
+#: dokan/products/new-product-single.php:136
+msgid "Success!"
+msgstr "Successo!"
+
+#: dokan/products/new-product-single.php:136
+msgid "The product has been saved successfully."
+msgstr "Il prodotto è stato salvato con successo."
+
+#: dokan/products/new-product-single.php:139
+msgid "View Product &rarr;"
+msgstr "Visualizza prodotto &rarr;"
+
+#: dokan/products/new-product-single.php:163
+msgid "Title"
+msgstr "Titolo"
+
+#: dokan/products/new-product-single.php:164
+msgid "Product name.."
+msgstr "Nome prodotto..."
+
+#: dokan/products/new-product-single.php:166
+msgid "Please enter product title!"
+msgstr "Inserisci il titolo del prodotto!"
+
+#: dokan/products/new-product-single.php:178
+msgid "Product Type"
+msgstr "Tipo prodotto"
+
+#: dokan/products/new-product-single.php:178
+msgid ""
+"Choose Variable if your product has multiple attributes - like sizes, "
+"colors, quality etc"
+msgstr ""
+"Scegli Variabile se il prodotto ha attributi multipli, come dimensione, "
+"colore, qualità etc."
+
+#: dokan/products/new-product-single.php:194
+#: dokan/products/new-product-single.php:474
+#: dokan/products/new-product-single.php:527
+#: wcfm/products-manager/wcfm-view-products-manage.php:964
+#: wcfm/products-manager/wcfm-view-products-manage.php:1017
+msgid "checked"
+msgstr "spuntato"
+
+#: dokan/products/new-product-single.php:194
+#: wcfm/products-manager/wcfm-view-products-manage.php:416
+msgid "Auction"
+msgstr "Asta"
+
+#: dokan/products/new-product-single.php:194
+msgid "Enable Auction for the current product"
+msgstr "Abilita asta per il prodotto corrente"
+
+#: dokan/products/new-product-single.php:204
+#: wcfm/products-manager/wcfm-view-products-manage.php:548
+msgid "Price"
+msgstr "Prezzo"
+
+#: dokan/products/new-product-single.php:209
+msgid " You Earn : "
+msgstr " Guadagni: "
+
+#: dokan/products/new-product-single.php:218
+#: dokan/products/new-product-single.php:231
+msgid "0.00"
+msgstr "0.00"
+
+#: dokan/products/new-product-single.php:224
+msgid "Discounted Price"
+msgstr "Prezzo scontato"
+
+#: dokan/products/new-product-single.php:225
+msgid "Schedule"
+msgstr "Calendario"
+
+#: dokan/products/new-product-single.php:226
+msgid "Cancel"
+msgstr "Annulla"
+
+#: dokan/products/new-product-single.php:238
+msgid "Product price can't be less than the vendor fee!"
+msgstr ""
+"Il prezzo del prodotto non può essere più basso delle commissioni del "
+"venditore!"
+
+#: dokan/products/new-product-single.php:245
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:270
+#: wcfm/products-manager/wcfm-view-products-manage.php:550
+msgid "From"
+msgstr "Da"
+
+#: dokan/products/new-product-single.php:246
+#: dokan/products/new-product-single.php:253
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-GG"
+
+#: dokan/products/new-product-single.php:252
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:271
+#: wcfm/products-manager/wcfm-view-products-manage.php:551
+msgid "To"
+msgstr "A"
+
+#: dokan/products/new-product-single.php:263
+#: dokan/products/new-product-single.php:296 templates/header-template1.php:126
+#: templates/header-template2.php:168 templates/header-template5.php:55
+msgid "Category"
+msgstr "Categoria"
+
+#: dokan/products/new-product-single.php:275
+msgid "- Select a category -"
+msgstr "- Seleziona una categoria - "
+
+#: dokan/products/new-product-single.php:291
+msgid "Please choose a category!"
+msgstr "Si prega di scegliere una categoria!"
+
+#: dokan/products/new-product-single.php:316
+msgid "Select product category"
+msgstr "Seleziona categoria prodotto"
+
+#: dokan/products/new-product-single.php:322
+#: redux-framework/ibid-config.php:118
+#: wcfm/products-manager/wcfm-view-products-manage.php:615
+#: wcfm/products-manager/wcfm-view-products-manage.php:622
+#: wcfm/products-manager/wcfm-view-products-manage.php:820
+#: wcfm/products-manager/wcfm-view-products-manage.php:827
+msgid "Tags"
+msgstr "Tag"
+
+#: dokan/products/new-product-single.php:342
+msgid "Select product tags"
+msgstr "Seleziona tag prodotto"
+
+#: dokan/products/new-product-single.php:369
+msgid "Upload a product cover image"
+msgstr "Carica l'immagine di copertina del prodotto"
+
+#: dokan/products/new-product-single.php:377
+#: dokan/products/new-product-single.php:400
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:266
+msgid "Image"
+msgstr "Immagine"
+
+#: dokan/products/new-product-single.php:401
+msgid "Delete image"
+msgstr "Elimina immagine"
+
+#: dokan/products/new-product-single.php:407
+msgid "Add gallery image"
+msgstr "Aggiungi immagine di galleria"
+
+#: dokan/products/new-product-single.php:450
+#: wcfm/products-manager/wcfm-view-products-manage.php:940
+msgid "Auction Settings"
+msgstr "Impostazioni asta"
+
+#: dokan/products/new-product-single.php:455
+#: wcfm/products-manager/wcfm-view-products-manage.php:945
+msgid "Item condition"
+msgstr "Condizione oggetto"
+
+#: dokan/products/new-product-single.php:457
+#: dokan/products/new-product-single.php:458
+#: dokan/products/new-product-single.php:466
+#: dokan/products/new-product-single.php:467
+#: wcfm/products-manager/wcfm-view-products-manage.php:947
+#: wcfm/products-manager/wcfm-view-products-manage.php:948
+#: wcfm/products-manager/wcfm-view-products-manage.php:956
+#: wcfm/products-manager/wcfm-view-products-manage.php:957
+msgid "selected"
+msgstr "selezionato"
+
+#: dokan/products/new-product-single.php:464
+#: wcfm/products-manager/wcfm-view-products-manage.php:954
+msgid "Auction type"
+msgstr "Tipo di asta"
+
+#: dokan/products/new-product-single.php:473
+#: wcfm/products-manager/wcfm-view-products-manage.php:963
+msgid "Proxy bidding?"
+msgstr "Rilancio automatico?"
+
+#: dokan/products/new-product-single.php:474
+#: dokan/products/new-product-single.php:527
+#: wcfm/products-manager/wcfm-view-products-manage.php:964
+#: wcfm/products-manager/wcfm-view-products-manage.php:1017
+msgid "yes"
+msgstr "sì"
+
+#: dokan/products/new-product-single.php:483
+#: wcfm/products-manager/wcfm-view-products-manage.php:973
+msgid "Start Price"
+msgstr "Prezzo di inizio"
+
+#: dokan/products/new-product-single.php:489
+#: wcfm/products-manager/wcfm-view-products-manage.php:979
+msgid "Bid increment"
+msgstr "Incremento offerta"
+
+#: dokan/products/new-product-single.php:495
+#: wcfm/products-manager/wcfm-view-products-manage.php:985
+msgid "Reserve price ("
+msgstr "Prezzo di riserva ("
+
+#: dokan/products/new-product-single.php:495
+#: wcfm/products-manager/wcfm-view-products-manage.php:985
+msgid ")"
+msgstr ")"
+
+#: dokan/products/new-product-single.php:504
+#: wcfm/products-manager/wcfm-view-products-manage.php:994
+msgid "Buy it now price ("
+msgstr "Prezzo compralo subito ("
+
+#: dokan/products/new-product-single.php:504
+#: wcfm/products-manager/wcfm-view-products-manage.php:994
+msgid ") = Regular Price"
+msgstr ") = Prezzo normale"
+
+#: dokan/products/new-product-single.php:510
+#: wcfm/products-manager/wcfm-view-products-manage.php:1000
+msgid "Auction Date - Start"
+msgstr "Data di inizio asta"
+
+#: dokan/products/new-product-single.php:516
+#: wcfm/products-manager/wcfm-view-products-manage.php:1006
+msgid "Auction Date - End"
+msgstr "Data di fine asta"
+
+#: dokan/products/new-product-single.php:523
+#: dokan/products/new-product-single.php:527
+#: wcfm/products-manager/wcfm-view-products-manage.php:1013
+#: wcfm/products-manager/wcfm-view-products-manage.php:1017
+msgid "Automatic relist auction"
+msgstr "Ripubblica asta in automatico"
+
+#: dokan/products/new-product-single.php:533
+#: wcfm/products-manager/wcfm-view-products-manage.php:1023
+msgid "Relist if fail after n hours"
+msgstr "Ripubblica se fallisce dopo n ore"
+
+#: dokan/products/new-product-single.php:540
+#: wcfm/products-manager/wcfm-view-products-manage.php:1030
+msgid "Relist if not paid after n hours"
+msgstr "Ripubblica se non pagata entro n ore"
+
+#: dokan/products/new-product-single.php:547
+#: wcfm/products-manager/wcfm-view-products-manage.php:1037
+msgid "Relist auction duration in h"
+msgstr "Durata in ore asta ripubblicata"
+
+#: dokan/products/new-product-single.php:557
+#: wcfm/products-manager/wcfm-view-products-manage.php:664
+#: wcfm/products-manager/wcfm-view-products-manage.php:872
+msgid "Short Description"
+msgstr "Descrizione breve"
+
+#: dokan/products/new-product-single.php:562
+#: wcfm/products-manager/wcfm-view-products-manage.php:665
+#: wcfm/products-manager/wcfm-view-products-manage.php:873
+msgid "Description"
+msgstr "Descrizione"
+
+#: dokan/products/new-product-single.php:578
+#: dokan/products/new-product-single.php:579
+msgid "Save Product"
+msgstr "Salva prodotto"
+
+#: inc/custom-comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: inc/custom-comments.php:45
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/custom-functions.dokan.php:50
+msgid "Please enter product title"
+msgstr "Inserisci il titolo del prodotto"
+
+#: inc/custom-functions.dokan.php:57
+msgid "Please select a category"
+msgstr "Si prega di selezionare una categoria"
+
+#: inc/custom-functions.dokan.php:62
+msgid "Please select AT LEAST ONE category"
+msgstr "Si prega di selezionare ALMENO UNA categoria"
+
+#: inc/custom-functions.dokan.php:69
+msgid "No product found!"
+msgstr "Nessun prodotto trovato!"
+
+#: inc/custom-functions.dokan.php:73
+msgid "I swear this is not your product!"
+msgstr "Giuro che questo non è il tuo prodotto!"
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installa plugin richiesti"
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installa plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Sto installando il plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aggiornamento plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa è andato storto con l'API dei plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Questo tema richiede il seguente plugin: %1$s."
+msgstr[1] "Questo tema richiede i seguenti plugin: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Questo tema consiglia il seguente plugin: %1$s."
+msgstr[1] "Questo tema consiglia i seguenti plugin: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Il seguente plugin deve essere aggiornato all'ultima versione per garantire "
+"la massima compatibilità con il tema: %1$s."
+msgstr[1] ""
+"I seguenti plugin devono essere aggiornati all'ultima versione per garantire "
+"la massima compatibilità con il tema: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Aggiornamento disponibile per: %1$s."
+msgstr[1] "Aggiornamento disponibile per i seguenti plugin: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plugin richiesto è attualmente non attivo: %1$s."
+msgstr[1] "I seguenti plugin richiesti sono attualmente non attivi: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plugin consigliato è attualmente non attivo: %1$s."
+msgstr[1] "I seguenti plugin consigliati sono attualmente non attivi: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Inizio installazione plugin"
+msgstr[1] "Inizio installazione plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Inizio aggiornamento plugin"
+msgstr[1] "Inizio aggiornamento plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Inizio attivazione plugin"
+msgstr[1] "Inizio attivazione plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Torna all'Installatore di plugin richiesti"
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Torna alla bacheca"
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Il seguente plugin è stato attivato con successo:"
+msgstr[1] "I seguenti plugin sono stati attivati con successo:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nessuna misura adottata. Il plugin %1$s era già attivo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non attivato. Per questo tema è necessaria una versione superiore di "
+"%s. Si prega di aggiornare il plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin installati e attivati con successo. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Nascondi questo avviso"
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ci sono uno o più plugin necessari o consigliati da installare, aggiornare o "
+"attivare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Si prega di contattare l'amministratore di questo sito per chiedere aiuto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Questo plugin deve essere aggiornato per essere compatibile con il tema."
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Aggiornamento richiesto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Il pacchetto di plugin remoto non contiene una cartella con lo slug "
+"desiderato e rinominarlo non ha funzionato."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Si prega di contattare il fornitore del plugin e chiedere loro di "
+"confezionare i loro plugin secondo le linee guida di WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Il pacchetto del plugin remoto è composto da più file, ma i file non sono "
+"contenuti in una cartella."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Richiesto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Consigliato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Repository WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Fonte esterna"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-confezionato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Non installato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installato ma non attivato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Attivo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Aggiornamento richiesto non disponibile"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Richiede aggiornamento"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Aggiornamento consigliato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tutti <span class=\"count\">(%s)</span>"
+msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Da installare <span class=\"count\">(%s)</span>"
+msgstr[1] "Da installare <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aggiornamenti disponibili <span class=\"count\">(%s)</span>"
+msgstr[1] "Aggiornamenti disponibili <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Da attivare <span class=\"count\">(%s)</span>"
+msgstr[1] "Da attivare <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "sconosciuto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Versioni installate:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Versione minima richiesta:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Versione disponibile:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Nessun plugin da installare, aggiornare o attivare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Fonte"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versione"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:210
+msgid "Status"
+msgstr "Stato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installare %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Aggiornare %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Attivare %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Messaggio di aggiornamento dell'autore del plugin:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installa"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Aggiorna"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Attiva"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nessun plugin selezionato per l'installazione. Niente di fatto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nessun plugin selezionato per l'aggiornamento. Niente di fatto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Nessun plugin disponibile per l'installazione."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Nessun plugin disponibile per l'aggiornamento."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nessun plugin selezionato per l'attivazione. Niente di fatto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Nessun plugin disponibile per l'attivazione."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Attivazione plugin fallita."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Si è verificato un errore durante l'installazione di  %1$s: <strong>%2$s</"
+"strong>."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installazione di %1$s fallita."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo di installazione e attivazione sta iniziando. Questo processo "
+"può richiedere un po' su alcuni host, quindi per favore siate pazienti."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr "%1$s fatto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e le attivazioni sono state completate."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione e attivazione del plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Sta iniziando il processo di installazione; su alcuni computer potrebbe "
+"essere lento, si prega di pazientare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione del plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/include_plugins.php:44
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: inc/tgm/include_plugins.php:54
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/tgm/include_plugins.php:64
+msgid "ModelTheme Framework"
+msgstr "ModelTheme Framework"
+
+#: inc/tgm/include_plugins.php:74
+msgid "WooCommerce Simple Auction"
+msgstr "WooCommerce Simple Auction"
+
+#: inc/tgm/include_plugins.php:84
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/tgm/include_plugins.php:89
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: inc/tgm/include_plugins.php:94
+msgid "YITH WooCommerce Popup"
+msgstr "YITH WooCommerce Popup"
+
+#: inc/tgm/include_plugins.php:99
+msgid "YITH WooCommerce Social Login"
+msgstr "YITH WooCommerce Social Login"
+
+#: inc/tgm/include_plugins.php:104
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: inc/tgm/include_plugins.php:109
+msgid "Dokan Marketplace"
+msgstr "Dokan Marketplace"
+
+#: inc/tgm/include_plugins.php:114
+msgid "WCFM Marketplace"
+msgstr "WCFM Marketplace"
+
+#: inc/tgm/include_plugins.php:119
+msgid "WC Vendors Marketplace"
+msgstr "WC Vendors Marketplace"
+
+#: inc/tgm/include_plugins.php:124
+msgid "Addons for WPBakery Page Builder"
+msgstr "Addons for WPBakery Page Builder"
+
+#: inc/tgm/include_plugins.php:129
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/tgm/include_plugins.php:134
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: inc/tgm/include_plugins.php:139
+msgid "GDPR"
+msgstr "GDPR"
+
+#: inc/tgm/include_plugins.php:144
+msgid "Simple Sitemap"
+msgstr "Simple Sitemap"
+
+#: redux-framework/ibid-config.php:98
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Personalizza &#8220;%s&#8221;"
+
+#: redux-framework/ibid-config.php:104 redux-framework/ibid-config.php:107
+msgid "Current theme preview"
+msgstr "Anteprima tema corrente"
+
+#: redux-framework/ibid-config.php:116
+#, php-format
+msgid "By %s"
+msgstr "By %s"
+
+#: redux-framework/ibid-config.php:117
+#, php-format
+msgid "Version %s"
+msgstr "Versione %s"
+
+#: redux-framework/ibid-config.php:123
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr "Questo <a href=\"%1$s\">tema figlio</a> richiede il tema padre, %2$s."
+
+#: redux-framework/ibid-config.php:123
+msgid "http://codex.WordPress.org/Child_Themes"
+msgstr "http://codex.WordPress.org/Child_Themes"
+
+#: redux-framework/ibid-config.php:149
+msgid "General Settings"
+msgstr "﻿Impostazioni generali"
+
+#: redux-framework/ibid-config.php:155
+msgid "<h3>Breadcrumbs</h3>"
+msgstr "<h3>Breadcrumb</h3>"
+
+#: redux-framework/ibid-config.php:160
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: redux-framework/ibid-config.php:161
+msgid "Enable or disable breadcrumbs"
+msgstr "Abilita / disabilita breadcrumb"
+
+#: redux-framework/ibid-config.php:167
+msgid "Breadcrumbs delimitator"
+msgstr "Delimitatore breadcrumb"
+
+#: redux-framework/ibid-config.php:168
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+"C'è un po' di spazio sotto il titolo nella scheda Opzioni. Le informazioni "
+"aggiuntive possono andare lì."
+
+#: redux-framework/ibid-config.php:169
+msgid "This is the description field, again good for additional info."
+msgstr ""
+"Questo è il campo descrizione, anche questo buono per le informazioni "
+"aggiuntive."
+
+#: redux-framework/ibid-config.php:176
+msgid "Import Google Font Globally"
+msgstr "Importa Google Font in modo globale. "
+
+#: redux-framework/ibid-config.php:177
+msgid "Select one or multiple fonts"
+msgstr "Seleziona uno o più font"
+
+#: redux-framework/ibid-config.php:178
+msgid "Importing fonts made easy"
+msgstr "Importazione facile dei font"
+
+#: redux-framework/ibid-config.php:193 redux-framework/ibid-config.php:204
+msgid "Sidebars"
+msgstr "Barre laterali"
+
+#: redux-framework/ibid-config.php:199
+msgid "<h3>Generate Unlimited Sidebars</h3>"
+msgstr "<h3>Genera illimitate barre laterali</h3>"
+
+#: redux-framework/ibid-config.php:205
+msgid "Use the \"Add More\" button to create unlimited sidebars."
+msgstr "Usa il pulsante \"Aggiungi\" per creare illimitate barre laterali."
+
+#: redux-framework/ibid-config.php:206
+msgid "Add one more Sidebar"
+msgstr "Aggiungi una barra laterale"
+
+#: redux-framework/ibid-config.php:215
+msgid "Styling Settings"
+msgstr "Impostazioni stile"
+
+#: redux-framework/ibid-config.php:221
+msgid "<h3>Links Colors(Regular, Hover, Active/Visited)</h3>"
+msgstr "<h3>Colori dei link (normali, hover, active/visitati)</h3>"
+
+#: redux-framework/ibid-config.php:226
+msgid "Links Color Option"
+msgstr "Opzione colore link"
+
+#: redux-framework/ibid-config.php:227
+msgid ""
+"Only color validation can be done on this field type(Default Regular: "
+"#2695ff; Default Hover: #2695ff; Default Active: #484848;)"
+msgstr ""
+"Su questo tipo di campo si possono solo validare i colori (Default normale: "
+"#2695ff; Default Hover: #2695ff; Default Active: #484848;)"
+
+#: redux-framework/ibid-config.php:239
+msgid "<h3>Main Colors & Backgrounds</h3>"
+msgstr "<h3>Colori principali e sfondi</h3>"
+
+#: redux-framework/ibid-config.php:244
+msgid "Main texts color"
+msgstr "Colori principali del testo"
+
+#: redux-framework/ibid-config.php:245 redux-framework/ibid-config.php:253
+#: redux-framework/ibid-config.php:296 redux-framework/ibid-config.php:380
+msgid "Default: #2695ff"
+msgstr "Default: #2695ff"
+
+#: redux-framework/ibid-config.php:252 redux-framework/ibid-config.php:671
+#: redux-framework/ibid-config.php:701
+msgid "Main backgrounds color"
+msgstr "Colore di sfondo principale"
+
+#: redux-framework/ibid-config.php:260 redux-framework/ibid-config.php:682
+msgid "Main backgrounds color (hover)"
+msgstr "Colore di sfondo principale (hover)"
+
+#: redux-framework/ibid-config.php:261 redux-framework/ibid-config.php:288
+#: redux-framework/ibid-config.php:312
+msgid "Default: #ffffff"
+msgstr "Default: #ffffff"
+
+#: redux-framework/ibid-config.php:268
+msgid "Semitransparent blocks background"
+msgstr "Sfondo blocchi semitrasparenti"
+
+#: redux-framework/ibid-config.php:282
+msgid "<h3>Text Selection Color & Background</h3>"
+msgstr "<h3>Colore e sfondo selezione testo</h3>"
+
+#: redux-framework/ibid-config.php:287
+msgid "Text selection color"
+msgstr "Colore selezione testo"
+
+#: redux-framework/ibid-config.php:295
+msgid "Text selection background color"
+msgstr "Colore sfondo selezione testo"
+
+#: redux-framework/ibid-config.php:306
+msgid "<h3>Menus Styling</h3>"
+msgstr "<h3>Stile menu</h3>"
+
+#: redux-framework/ibid-config.php:311
+msgid "Nav Menu Text Color"
+msgstr "Colore testo menu nav"
+
+#: redux-framework/ibid-config.php:324
+msgid "Nav Menu Text Color on hover"
+msgstr "Colore testo menu nav (hover)"
+
+#: redux-framework/ibid-config.php:325
+msgid "Default: #fff"
+msgstr "Default: #fff"
+
+#: redux-framework/ibid-config.php:341
+msgid "<h3>Submenus Styling</h3>"
+msgstr "<h3>Stile sottomenu</h3>"
+
+#: redux-framework/ibid-config.php:346
+msgid "Nav Submenu Background Color"
+msgstr "Colore sfondo sottomenu nav"
+
+#: redux-framework/ibid-config.php:347 redux-framework/ibid-config.php:369
+#: redux-framework/ibid-config.php:815
+msgid "Default: #FFF"
+msgstr "Default: #FFF"
+
+#: redux-framework/ibid-config.php:357
+msgid "Nav Submenu Text Color"
+msgstr "Colore testo sottomenu nav"
+
+#: redux-framework/ibid-config.php:358
+msgid "Default: #484848"
+msgstr "Default: #484848"
+
+#: redux-framework/ibid-config.php:368 redux-framework/ibid-config.php:379
+msgid "Nav Submenu Hover Background Color"
+msgstr "Colore sfondo hover sottomenu nav"
+
+#: redux-framework/ibid-config.php:392
+msgid "<h3>Fonts Settings</h3>"
+msgstr "<h3>Impostazioni font</h3>"
+
+#: redux-framework/ibid-config.php:397
+msgid "Body Font family"
+msgstr "Font per il corpo"
+
+#: redux-framework/ibid-config.php:419
+msgid "<h3>Headings</h3>"
+msgstr "<h3>Intestazioni</h3>"
+
+#: redux-framework/ibid-config.php:424
+msgid "Heading H1 Font family"
+msgstr "Famiglia di font per intestazione H1"
+
+#: redux-framework/ibid-config.php:447
+msgid "Heading H2 Font family"
+msgstr "Famiglia di font per intestazione H2"
+
+#: redux-framework/ibid-config.php:470
+msgid "Heading H3 Font family"
+msgstr "Famiglia di font per intestazione H3"
+
+#: redux-framework/ibid-config.php:493
+msgid "Heading H4 Font family"
+msgstr "Famiglia di font per intestazione H4"
+
+#: redux-framework/ibid-config.php:516
+msgid "Heading H5 Font family"
+msgstr "Famiglia di font per intestazione H5"
+
+#: redux-framework/ibid-config.php:539
+msgid "Heading H6 Font family"
+msgstr "Famiglia di font per intestazione H6"
+
+#: redux-framework/ibid-config.php:563
+msgid "<h3>Inputs & Textareas Font family</h3>"
+msgstr "<h3>Famiglie font Input e textarea</h3>"
+
+#: redux-framework/ibid-config.php:568
+msgid "Inputs Font family"
+msgstr "Famiglia font input"
+
+#: redux-framework/ibid-config.php:581
+msgid "Font family for inputs and textareas"
+msgstr "Famiglia font per input e textarea"
+
+#: redux-framework/ibid-config.php:591
+msgid "<h3>Buttons Font family</h3>"
+msgstr "<h3>Famiglie font pulsanti</h3>"
+
+#: redux-framework/ibid-config.php:596
+msgid "Buttons Font family"
+msgstr "Famiglia font pulsanti"
+
+#: redux-framework/ibid-config.php:611
+msgid "Font family for buttons"
+msgstr "Famiglia di font per i pulsanti"
+
+#: redux-framework/ibid-config.php:627
+msgid "Header Settings"
+msgstr "Impostazioni header"
+
+#: redux-framework/ibid-config.php:633
+msgid "<h3>Header Variant</h3>"
+msgstr "<h3>Varianti header</h3>"
+
+#: redux-framework/ibid-config.php:639
+msgid "Select Header layout"
+msgstr "Scegli layout intestazione"
+
+#: redux-framework/ibid-config.php:665
+msgid "Header 2 Custom Top & Bottom Header Background"
+msgstr "Sfondo personalizzato top & bottom header 2"
+
+#: redux-framework/ibid-config.php:672 redux-framework/ibid-config.php:683
+msgid "This color is only available when using Header 2"
+msgstr "Questo colore è disponibile solo quando si usa l'header 2"
+
+#: redux-framework/ibid-config.php:695
+msgid "Header 3 Custom Top & Bottom Header Background"
+msgstr "Sfondo personalizzato top & bottom header 3"
+
+#: redux-framework/ibid-config.php:702 redux-framework/ibid-config.php:713
+msgid "This color is only available when using Header 3"
+msgstr "Questo colore è disponibile solo quando si usa l'header 3"
+
+#: redux-framework/ibid-config.php:712
+msgid "Color Links (not navigation)"
+msgstr "Link colore (non navigazione)"
+
+#: redux-framework/ibid-config.php:721
+msgid "Fixed Navigation menu?"
+msgstr "Menu navigazione fisso?"
+
+#: redux-framework/ibid-config.php:722
+msgid "Enable or disable \"fixed positioned navigation menu\"."
+msgstr "Abilita o disabilita \"menu di navigazione posizionato fixed\"."
+
+#: redux-framework/ibid-config.php:728
+msgid "Order Traking Url"
+msgstr "URL tracking ordine"
+
+#: redux-framework/ibid-config.php:729
+msgid ""
+"A link to a page where the shortcode \"[woocommerce_order_tracking]\" is "
+"added. It will show the order tracking form."
+msgstr ""
+"Link alla pagina in cui viene aggiunto lo shortcode "
+"\"[woocommerce_order_tracking]. Mostra il form di tracciamento dell'ordine."
+
+#: redux-framework/ibid-config.php:735
+msgid "Category menu enabled?"
+msgstr "Menu categorie abilitato?"
+
+#: redux-framework/ibid-config.php:736
+msgid "Enable or disable \"category navigation menu\"."
+msgstr "Abilita o disabilita \"menu di navigazione categorie\"."
+
+#: redux-framework/ibid-config.php:742
+msgid "Language Switcher Dropdown"
+msgstr "Tendina cambio lingua"
+
+#: redux-framework/ibid-config.php:743
+msgid "Enable or disable \"Language Switcher Dropdown\"."
+msgstr "Abilita o disabilita \"Tendina cambio lingua\"."
+
+#: redux-framework/ibid-config.php:749
+msgid "Currency Switcher Dropdown"
+msgstr "Tendina cambio valuta"
+
+#: redux-framework/ibid-config.php:750
+msgid "Enable or disable \"Currency Switcher Dropdown\"."
+msgstr "Abilita o disabilita \"Tendina cambio valuta\"."
+
+#: redux-framework/ibid-config.php:757
+msgid "<h3>Search Settings</h3>"
+msgstr "<h3>Impostazioni ricerca</h3>"
+
+#: redux-framework/ibid-config.php:762
+msgid "Search form for:"
+msgstr "Modulo cerca per:"
+
+#: redux-framework/ibid-config.php:763
+msgid ""
+"Select the scope of the header search form(Search for PRODUCTS or POSTS)."
+msgstr ""
+"Seleziona lo scopo della ricerca nell'header (cerca per PRODOTTI o ARTICOLI)."
+
+#: redux-framework/ibid-config.php:774
+msgid "<h3>Logo & Favicon Settings</h3>"
+msgstr "<h3>Impostazioni logo e favicon</h3>"
+
+#: redux-framework/ibid-config.php:780
+msgid "Logo as image"
+msgstr "Logo immagine"
+
+#: redux-framework/ibid-config.php:787
+msgid "Logo Max Width"
+msgstr "Larghezza massima logo"
+
+#: redux-framework/ibid-config.php:788
+msgid "Use the slider to increase/decrease max size of the logo."
+msgstr ""
+"Usa lo slider per aumentare o diminuire la dimensione massima del logo."
+
+#: redux-framework/ibid-config.php:789
+msgid "Min: 1px, max: 500px, step: 1px, default value: 140px"
+msgstr "Min: 1px, max: 500px, passo: 1px, valore di default: 140px"
+
+#: redux-framework/ibid-config.php:800
+msgid "Favicon url"
+msgstr "URL favicon"
+
+#: redux-framework/ibid-config.php:802
+msgid "Use the upload button to import media."
+msgstr "Usa il pulsante di upload per importare i media."
+
+#: redux-framework/ibid-config.php:809
+msgid "<h3>Header Styling Settings</h3>"
+msgstr "<h3>Impostazioni stile header</h3>"
+
+#: redux-framework/ibid-config.php:814
+msgid "Category 2 Background color"
+msgstr "Colore di sfondo della categoria 2"
+
+#: redux-framework/ibid-config.php:825
+msgid "Header (top small bar) - background"
+msgstr "Header (barra bassa in alto) - sfondo"
+
+#: redux-framework/ibid-config.php:826 redux-framework/ibid-config.php:836
+msgid "Header background with image or color."
+msgstr "Sfondo header con immagine o colore."
+
+#: redux-framework/ibid-config.php:835
+msgid "Header (main-header) - background"
+msgstr "Header (main-header) - sfondo"
+
+#: redux-framework/ibid-config.php:845
+msgid "Navigation - background"
+msgstr "Navigazione - sfondo"
+
+#: redux-framework/ibid-config.php:846
+msgid "Navigation background with color."
+msgstr "Sfondo navigazione con colore."
+
+#: redux-framework/ibid-config.php:859
+msgid "Footer Settings"
+msgstr "Impostazioni footer"
+
+#: redux-framework/ibid-config.php:864
+msgid "Footer Widgets"
+msgstr "Widget footer"
+
+#: redux-framework/ibid-config.php:865
+msgid "Enable or disable footer wigets"
+msgstr "Abilita / disabilita widget footer"
+
+#: redux-framework/ibid-config.php:871
+msgid "Footer Top"
+msgstr "Footer top"
+
+#: redux-framework/ibid-config.php:872
+msgid "Enable or disable footer top"
+msgstr "Abilita / disabilita footer top"
+
+#: redux-framework/ibid-config.php:878
+msgid "Number of footer columns"
+msgstr "Numero di colonne footer"
+
+#: redux-framework/ibid-config.php:879
+msgid "Footer - number of columns."
+msgstr "Footer - numero di colonne."
+
+#: redux-framework/ibid-config.php:899
+msgid "Footer Row #1 - Padding"
+msgstr "Footer riga #1 - Padding"
+
+#: redux-framework/ibid-config.php:900
+msgid "Choose the spacing for the first row from footer."
+msgstr "Scegli la spaziatura della prima riga dal footer."
+
+#: redux-framework/ibid-config.php:910
+msgid "Footer Text Left"
+msgstr "Testo footer sinistra"
+
+#: redux-framework/ibid-config.php:916
+msgid "Footer Text Right"
+msgstr "Testo footer destra"
+
+#: redux-framework/ibid-config.php:922
+msgid "Footer card icons"
+msgstr "Icone card footer"
+
+#: redux-framework/ibid-config.php:935
+msgid "Footer (top) - background"
+msgstr "Footer (top) - sfondo"
+
+#: redux-framework/ibid-config.php:936 redux-framework/ibid-config.php:946
+msgid "Footer background with image or color."
+msgstr "Sfondo footer con immagine o colore."
+
+#: redux-framework/ibid-config.php:945
+msgid "Footer (bottom) - background"
+msgstr "Footer (bottom) - sfondo"
+
+#: redux-framework/ibid-config.php:955
+msgid "Footer (top) - color text"
+msgstr "Footer (top) - colore testo"
+
+#: redux-framework/ibid-config.php:956 redux-framework/ibid-config.php:963
+msgid "Footer text color."
+msgstr "Colore testo del footer."
+
+#: redux-framework/ibid-config.php:962
+msgid "Footer (bottom) - color text"
+msgstr "Footer (bottom) - colore testo"
+
+#: redux-framework/ibid-config.php:969
+msgid "Footer (bottom) - color links"
+msgstr "Footer (bottom) - colore link"
+
+#: redux-framework/ibid-config.php:970
+msgid "Footer links color."
+msgstr "Colore link footer."
+
+#: redux-framework/ibid-config.php:977
+msgid "<h3>Back to Top Settings</h3>"
+msgstr "<h3>Impostazioni torna in alto</h3>"
+
+#: redux-framework/ibid-config.php:982
+msgid "Back to Top Button Status"
+msgstr "Stato pulsante torna in alto"
+
+#: redux-framework/ibid-config.php:983
+msgid "Enable or disable \"Back to Top Button\""
+msgstr "Abilita / disabilita pulsante \"Torna in alto\""
+
+#: redux-framework/ibid-config.php:989
+msgid "Back to Top Button Status Backgrond"
+msgstr "Sfondo stato pulsante torna in alto"
+
+#: redux-framework/ibid-config.php:990
+msgid "Default: #2695FF"
+msgstr "Default: #2695FF"
+
+#: redux-framework/ibid-config.php:1007
+msgid "Contact Settings"
+msgstr "Impostazioni contatti"
+
+#: redux-framework/ibid-config.php:1012
+msgid "Phone Number"
+msgstr "Numero di telefono"
+
+#: redux-framework/ibid-config.php:1013
+msgid "Contact phone number displayed on the contact us page."
+msgstr "Numero di telefono di contatto visualizzato nella pagina contattaci."
+
+#: redux-framework/ibid-config.php:1020
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr "Email"
+
+#: redux-framework/ibid-config.php:1021
+msgid ""
+"Contact email displayed on the contact us page., additional info is good in "
+"here."
+msgstr ""
+"Email di contatto visualizzata nella pagina contattaci. Si possono inserire "
+"informazioni aggiuntive."
+
+#: redux-framework/ibid-config.php:1029
+msgid "Program"
+msgstr "Programma"
+
+#: redux-framework/ibid-config.php:1030
+msgid "Enter your work program"
+msgstr "Inserisci il programma di lavoro"
+
+#: redux-framework/ibid-config.php:1036
+msgid "Address"
+msgstr "Indirizzo"
+
+#: redux-framework/ibid-config.php:1037
+msgid "Enter your contact address"
+msgstr "Inserisci l'indirizzo di contatto"
+
+#: redux-framework/ibid-config.php:1513
+msgid "Blog Settings"
+msgstr "Impostazioni blog"
+
+#: redux-framework/ibid-config.php:1519
+msgid "<h3>Blog Archive Layout</h3>"
+msgstr "<h3>Layout archivio blog</h3>"
+
+#: redux-framework/ibid-config.php:1525
+msgid "Blog List Layout"
+msgstr "Layout lista blog"
+
+#: redux-framework/ibid-config.php:1526
+msgid "Select Blog List layout."
+msgstr "Scegli il layout della lista del blog."
+
+#: redux-framework/ibid-config.php:1547
+msgid "Blog List Sidebar"
+msgstr "Barra laterale lista blog"
+
+#: redux-framework/ibid-config.php:1548
+msgid "Select Blog List Sidebar."
+msgstr "Scegli la barra laterale per la lista del blog."
+
+#: redux-framework/ibid-config.php:1556
+msgid "<h3>Blog Single Article Layout</h3>"
+msgstr "<h3>Layout pagina articolo blog</h3>"
+
+#: redux-framework/ibid-config.php:1562
+msgid "Single Blog Layout"
+msgstr "Layout pagina articolo del blog"
+
+#: redux-framework/ibid-config.php:1563
+msgid "Select Single Blog Layout."
+msgstr "Scegli il layout della pagina di articolo del blog."
+
+#: redux-framework/ibid-config.php:1584
+msgid "Single Blog Sidebar"
+msgstr "Barra laterale nella pagina singola del blog"
+
+#: redux-framework/ibid-config.php:1585
+msgid "Select Single Blog Sidebar."
+msgstr "Scegli la barra laterale della pagina di articolo del blog."
+
+#: redux-framework/ibid-config.php:1594
+msgid "<h3>Blog Single Article Typography</h3>"
+msgstr "<h3>Tipografia  pagina articolo blog</h3>"
+
+#: redux-framework/ibid-config.php:1599
+msgid "Blog Post Font family"
+msgstr "Famiglia di font per gli articoli del blog"
+
+#: redux-framework/ibid-config.php:1624
+msgid "Enable/disable featured image for single post."
+msgstr "Abilita/disabilita l'immagine in evidenza per l'articolo singolo."
+
+#: redux-framework/ibid-config.php:1625
+msgid "Show or Hide the featured image from blog post page.\"."
+msgstr ""
+"Mostra/nascondi l'immagine in evidenza dalla pagina dell'articolo del blog."
+
+#: redux-framework/ibid-config.php:1636
+msgid "Shop Settings"
+msgstr "Impostazioni negozio"
+
+#: redux-framework/ibid-config.php:1642
+msgid "<h3>Fundraising Mode</h3>"
+msgstr "<h3>Modalità raccolta fondi</h3>"
+
+#: redux-framework/ibid-config.php:1647
+msgid "Enable Fundraising Mode"
+msgstr "Abilita modalità raccolta fondi"
+
+#: redux-framework/ibid-config.php:1648
+msgid ""
+"Enable or disable to use the Fundraising functionalities on your website"
+msgstr "Abilita/disabilita le funzionalità di raccolta fondi sul sito"
+
+#: redux-framework/ibid-config.php:1659
+msgid "<h3>Shop Archive</h3>"
+msgstr "<h3>Archivio negozio</h3>"
+
+#: redux-framework/ibid-config.php:1665
+msgid "Shop List Products Layout"
+msgstr "Layout elenco prodotti del negozio"
+
+#: redux-framework/ibid-config.php:1666
+msgid "Select Shop List Products layout."
+msgstr "Scegli il layout dell'elenco prodotti del negozio."
+
+#: redux-framework/ibid-config.php:1687
+msgid "Shop List Sidebar"
+msgstr "Barra laterale elenco negozio"
+
+#: redux-framework/ibid-config.php:1688 redux-framework/ibid-config.php:1755
+msgid "Select Shop List Sidebar."
+msgstr "Seleziona barra laterale nella pagina elenco prodotti."
+
+#: redux-framework/ibid-config.php:1695
+msgid "Number of shop columns"
+msgstr "Numero di colonne negozio"
+
+#: redux-framework/ibid-config.php:1696
+msgid "Number of products per column to show on shop list template."
+msgstr ""
+"Numero di prodotti per colonna da mostrare nel template di elenco prodotti "
+"del negozio."
+
+#: redux-framework/ibid-config.php:1707
+msgid "Secondary Image on Hover"
+msgstr "Immagine secondaria in hover"
+
+#: redux-framework/ibid-config.php:1708
+msgid ""
+"Enable or disable the Secondary Image on Hover(The 2nd image is actually the "
+"first image from the media gallery of the product)"
+msgstr ""
+"Abilita/disabilita l'immagine secondaria in hover. La seconda immagine è in "
+"realtà la prima immagine della galleria dei media sul prodotto."
+
+#: redux-framework/ibid-config.php:1715
+msgid "<h3>Product Page</h3>"
+msgstr "<h3>Scheda prodotto</h3>"
+
+#: redux-framework/ibid-config.php:1720
+msgid "Select Single Product layout"
+msgstr "Scegli il layout della pagina del singolo prodotto"
+
+#: redux-framework/ibid-config.php:1721
+msgid "Unique layout to show on single product template."
+msgstr "Layout unico da mostrare nel template del singolo prodotto."
+
+#: redux-framework/ibid-config.php:1732
+msgid "Single Product Layout"
+msgstr "Layout singolo prodotto"
+
+#: redux-framework/ibid-config.php:1733
+msgid "Select Single Product Layout."
+msgstr "Scegli il layout della pagina del singolo prodotto."
+
+#: redux-framework/ibid-config.php:1754
+msgid "Shop Single Product Sidebar"
+msgstr "Sidebar prodotto singolo"
+
+#: redux-framework/ibid-config.php:1762
+msgid "Related Products"
+msgstr "Prodotti correlati"
+
+#: redux-framework/ibid-config.php:1763
+msgid "Enable or disable related products on single product"
+msgstr "Abilita/disabilita i prodotti correlati nella scheda prodotto"
+
+#: redux-framework/ibid-config.php:1769
+msgid "Number of related products"
+msgstr "Numero di prodotti correlati"
+
+#: redux-framework/ibid-config.php:1770
+msgid "Number of related products to show on single product template."
+msgstr ""
+"Numero di prodotti correlati da mostrare nel template di prodotto singolo."
+
+#: redux-framework/ibid-config.php:1786
+msgid "404 Page Settings"
+msgstr "Impostazioni pagina 404"
+
+#: redux-framework/ibid-config.php:1792
+msgid "Image for 404 Not found page"
+msgstr "Immagine per pagina 404 non trovato"
+
+#: redux-framework/ibid-config.php:1803
+msgid "Social Media Settings"
+msgstr "Impostazioni social media"
+
+#: redux-framework/ibid-config.php:1808
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: redux-framework/ibid-config.php:1809
+msgid "Type your Facebook url."
+msgstr "Inserisci l'URL di Facebook."
+
+#: redux-framework/ibid-config.php:1816
+msgid "Twitter username"
+msgstr "Nome Utente Twitter"
+
+#: redux-framework/ibid-config.php:1817
+msgid "Type your Twitter username."
+msgstr "Inserisci il tuo nome utente su Twitter."
+
+#: redux-framework/ibid-config.php:1823
+msgid "Pinterest URL"
+msgstr "URL Pinterest"
+
+#: redux-framework/ibid-config.php:1824
+msgid "Type your Pinterest url."
+msgstr "Inserisci l'URL di Pinterest."
+
+#: redux-framework/ibid-config.php:1831
+msgid "Skype Name"
+msgstr "Nome Skype"
+
+#: redux-framework/ibid-config.php:1832
+msgid "Type your Skype username."
+msgstr "Inserisci il tuo nome utente su Skype."
+
+#: redux-framework/ibid-config.php:1838
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: redux-framework/ibid-config.php:1839
+msgid "Type your Instagram url."
+msgstr "Inserisci l'URL di Instagram."
+
+#: redux-framework/ibid-config.php:1846
+msgid "YouTube URL"
+msgstr "URL YouTube"
+
+#: redux-framework/ibid-config.php:1847
+msgid "Type your YouTube url."
+msgstr "Inserisci l'URL di YouTube."
+
+#: redux-framework/ibid-config.php:1854
+msgid "Dribbble URL"
+msgstr "URL Dribbble"
+
+#: redux-framework/ibid-config.php:1855
+msgid "Type your Dribbble url."
+msgstr "Inserisci l'URL di Dribbble."
+
+#: redux-framework/ibid-config.php:1862
+msgid "Google+ URL"
+msgstr "URL Google Plus"
+
+#: redux-framework/ibid-config.php:1863
+msgid "Type your Google+ url."
+msgstr "Inserisci l'URL di Google+."
+
+#: redux-framework/ibid-config.php:1870
+msgid "LinkedIn URL"
+msgstr "URL Linkedin"
+
+#: redux-framework/ibid-config.php:1871
+msgid "Type your LinkedIn url."
+msgstr "Inserisci l'URL di LinkedIn."
+
+#: redux-framework/ibid-config.php:1878
+msgid "Deviant Art URL"
+msgstr "URL Deviant Art"
+
+#: redux-framework/ibid-config.php:1879
+msgid "Type your Deviant Art url."
+msgstr "Inserisci l'URL di Deviant Art."
+
+#: redux-framework/ibid-config.php:1886
+msgid "Digg URL"
+msgstr "URL Digg"
+
+#: redux-framework/ibid-config.php:1887
+msgid "Type your Digg url."
+msgstr "Inserisci l'URL di Digg."
+
+#: redux-framework/ibid-config.php:1893
+msgid "Flickr URL"
+msgstr "URL Flickr"
+
+#: redux-framework/ibid-config.php:1894
+msgid "Type your Flickr url."
+msgstr "Inserisci l'URL di Flickr."
+
+#: redux-framework/ibid-config.php:1900
+msgid "Stumbleupon URL"
+msgstr "URL Stumbleupon"
+
+#: redux-framework/ibid-config.php:1901
+msgid "Type your Stumbleupon url."
+msgstr "Inserisci l'URL di Stumbleupon."
+
+#: redux-framework/ibid-config.php:1907
+msgid "Tumblr URL"
+msgstr "URL Tumblr"
+
+#: redux-framework/ibid-config.php:1908
+msgid "Type your Tumblr url."
+msgstr "Inserisci l'URL di Tumblr."
+
+#: redux-framework/ibid-config.php:1914
+msgid "Vimeo URL"
+msgstr "URL Vimeo"
+
+#: redux-framework/ibid-config.php:1915
+msgid "Type your Vimeo url."
+msgstr "Inserisci l'URL di Vimeo."
+
+#: redux-framework/ibid-config.php:1923
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>URL Tema:</strong> "
+
+#: redux-framework/ibid-config.php:1924
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Autore:</strong> "
+
+#: redux-framework/ibid-config.php:1925
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Versione:</strong> "
+
+#: redux-framework/ibid-config.php:1929
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Tag:</strong> "
+
+#: redux-framework/ibid-config.php:1971 redux-framework/ibid-config.php:1972
+msgid "Theme Panel"
+msgstr "Pannello tema"
+
+#: redux-framework/modeltheme-config.responsive.php:3
+msgid "Responsive Typography"
+msgstr "Tipografia responsive"
+
+#: redux-framework/modeltheme-config.responsive.php:16
+msgid "Heading H1 Font size - Tablets"
+msgstr "Dimensione font intestazioni H1 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:37
+msgid "Heading H2 Font size - Tablets"
+msgstr "Dimensione font intestazioni H2 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:58
+msgid "Heading H3 Font size - Tablets"
+msgstr "Dimensione font intestazioni H3 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:79
+msgid "Heading H4 Font size - Tablets"
+msgstr "Dimensione font intestazioni H4 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:100
+msgid "Heading H5 Font size - Tablets"
+msgstr "Dimensione font intestazioni H5 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:121
+msgid "Heading H6 Font size - Tablets"
+msgstr "Dimensione font intestazioni H6 - Tablet"
+
+#: redux-framework/modeltheme-config.responsive.php:148
+msgid "Heading H1 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H1 - Smartphone"
+
+#: redux-framework/modeltheme-config.responsive.php:169
+msgid "Heading H2 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H2 - Smartphone"
+
+#: redux-framework/modeltheme-config.responsive.php:190
+msgid "Heading H3 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H3 - Smartphone"
+
+#: redux-framework/modeltheme-config.responsive.php:211
+msgid "Heading H4 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H4 - Smartphone"
+
+#: redux-framework/modeltheme-config.responsive.php:232
+msgid "Heading H5 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H5 - Smartphone"
+
+#: redux-framework/modeltheme-config.responsive.php:253
+msgid "Heading H6 Font size - Smartphones"
+msgstr "Dimensione font intestazioni H6 - Smartphone"
+
+#: templates/header-template1.php:28 templates/header-template1.php:30
+#: templates/header-template2.php:30 templates/header-template2.php:32
+msgid "EN"
+msgstr "EN"
+
+#: templates/header-template1.php:31 templates/header-template2.php:33
+msgid "FR"
+msgstr "FR"
+
+#: templates/header-template1.php:32 templates/header-template2.php:34
+msgid "GE"
+msgstr "GE"
+
+#: templates/header-template1.php:40 templates/header-template1.php:42
+#: templates/header-template2.php:42 templates/header-template2.php:44
+msgid "USD"
+msgstr "USD"
+
+#: templates/header-template1.php:43 templates/header-template2.php:45
+msgid "EUR"
+msgstr "EUR"
+
+#: templates/header-template1.php:44 templates/header-template2.php:46
+msgid "JPY"
+msgstr "JPY"
+
+#: templates/header-template1.php:53 templates/header-template2.php:55
+msgid "Call us toll free: "
+msgstr "Chiama il nostro numero verde: "
+
+#: templates/header-template1.php:62 templates/header-template2.php:64
+msgid "Send us an email: "
+msgstr "Inviaci una email: "
+
+#: templates/header-template1.php:81 templates/header-template2.php:83
+msgid "Order Tracking"
+msgstr "Tracking ordini"
+
+#: templates/header-template1.php:87 templates/header-template2.php:89
+msgid "Wishlist"
+msgstr "Lista desideri"
+
+#: templates/header-template1.php:156 templates/header-template2.php:240
+#: templates/header-template3.php:127 templates/header-template5.php:83
+msgid "My Cart"
+msgstr "Il mio carrello"
+
+#: templates/header-template1.php:183
+#: wcfm/products-manager/wcfm-view-products-manage.php:563
+#: wcfm/products-manager/wcfm-view-products-manage.php:707
+msgid "Categories"
+msgstr "Categorie"
+
+#: templates/header-template1.php:208
+msgid "Category navigation menu is missing."
+msgstr "Il menu di navigazione categorie non è impostato."
+
+#: templates/header-template1.php:244 templates/header-template5.php:126
+msgid "Primary navigation menu is missing."
+msgstr "Il menu di navigazione principale non è impostato."
+
+#: templates/header-template1.php:256 templates/header-template2.php:99
+#: templates/header-template3.php:83 templates/header-template5.php:137
+msgid "My Account"
+msgstr "Il mio account"
+
+#: templates/header-template1.php:258 templates/header-template2.php:101
+#: templates/header-template3.php:85 templates/header-template5.php:139
+msgid "My Dashboard"
+msgstr "Il mio cruscotto"
+
+#: templates/header-template1.php:261 templates/header-template1.php:265
+#: templates/header-template1.php:270 templates/header-template2.php:104
+#: templates/header-template2.php:108 templates/header-template2.php:113
+#: templates/header-template3.php:88 templates/header-template3.php:92
+#: templates/header-template3.php:97
+msgid "Vendor Dashboard"
+msgstr "Cruscotto venditore"
+
+#: templates/header-template1.php:274 templates/header-template2.php:117
+#: templates/header-template3.php:101 templates/header-template5.php:140
+msgid "My Orders"
+msgstr "I miei ordini"
+
+#: templates/header-template1.php:275 templates/header-template2.php:118
+#: templates/header-template3.php:102 templates/header-template5.php:141
+msgid "Account Details"
+msgstr "﻿Dettagli account"
+
+#: templates/header-template1.php:277 templates/header-template2.php:120
+#: templates/header-template3.php:104 templates/header-template5.php:143
+msgid "Log Out"
+msgstr "Esci"
+
+#: templates/header-template1.php:283 templates/header-template2.php:126
+#: templates/header-template3.php:110 templates/header-template5.php:148
+msgid "Sign In"
+msgstr "Registrati"
+
+#: templates/header-template2.php:220
+msgid "Header 2 navigation menu is missing."
+msgstr "Il menu di navigazione header 2 non è impostato."
+
+#: templates/header-template3.php:69
+msgid "Header 3 navigation menu is missing."
+msgstr "Il menu di navigazione header 3 non è impostato."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:26
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:231
+msgid "Inventory"
+msgstr "Magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:31
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:274
+msgid "SKU"
+msgstr "SKU"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:31
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+"Lo SKU è il codice univoco interno per ciascun prodotto e servizio che può "
+"essere acquistato."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:32
+msgid "Manage Stock?"
+msgstr "Gestisci magazzino?"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:32
+msgid "Enable stock management at product level"
+msgstr "Abilita la gestione magazzino per i singoli prodotti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:33
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:272
+msgid "Stock Qty"
+msgstr "Qtà magazz"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:33
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation level."
+msgstr ""
+"Quantità in magazzino. Se è un prodotto variabile, questo valore viene usato "
+"come somma di tutte le varianti."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:34
+msgid "Allow Backorders?"
+msgstr "Permetti backorder?"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:34
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:273
+msgid "Do not Allow"
+msgstr "Non permettere"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:34
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:273
+msgid "Allow, but notify customer"
+msgstr "Permetti, ma indicalo al cliente"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:34
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:273
+msgid "Allow"
+msgstr "Permetti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:34
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0."
+msgstr ""
+"Se si gestisce il magazzino, questa opzione controlla se si possono emettere "
+"ordini per articoli non presenti in magazzino. Se accade, la quantità in "
+"magazzino può scendere a valori negativi."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:35
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:275
+msgid "Stock status"
+msgstr "Stato magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:35
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:275
+msgid "In stock"
+msgstr "In magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:35
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:275
+msgid "Out of stock"
+msgstr "Non disponibile"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:35
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:275
+msgid "On backorder"
+msgstr "Disponibile in backorder"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:35
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend."
+msgstr ""
+"Controlla se il prodotto viene indicato come \"in magazzino\" o \"non "
+"disponibile\" nel frontend."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:36
+msgid "Sold Individually"
+msgstr "Venduto individualmente"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:36
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+"Da abilitare se si vuole che i clienti ordinino solo un pezzo di questo "
+"articolo in ciascun ordine"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:53
+#: wcfm/products-manager/wcfm-view-products-manage.php:540
+msgid "Downloadable"
+msgstr "Scaricabile"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:58
+msgid "Files"
+msgstr "File"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:59
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:165
+#: woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr "NOme"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:60
+msgid "File"
+msgstr "File"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:64
+msgid "Download Limit"
+msgstr "Limite download"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:64
+msgid "Unlimited"
+msgstr "﻿Illimitato"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:65
+msgid "Download Expiry"
+msgstr "Scadenza download"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:65
+msgid "Never"
+msgstr "Mai"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:77
+msgid "Grouped Products"
+msgstr "Prodotti raggruppati"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:82
+msgid "Grouped products"
+msgstr "Prodotti raggruppati"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:82
+msgid "This lets you choose which products are part of this group."
+msgstr ""
+"Permettere di scegliere quali prodotti facciano parte di questo gruppo."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:99
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:242
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:105
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:246
+msgid "Weight"
+msgstr "Peso"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:106
+msgid "Dimensions"
+msgstr "Dimensioni"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:106
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:243
+msgid "Length"
+msgstr "Lunghezza"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:107
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:244
+msgid "Width"
+msgstr "Larghezza"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:108
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:245
+msgid "Height"
+msgstr "Altezza"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:109
+msgid "Shipping class"
+msgstr "Classe di spedizione"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:131
+msgid "Tax"
+msgstr "Imposte"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:136
+msgid "Tax Status"
+msgstr "Stato imposte"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:136
+msgid "Taxable"
+msgstr "Tassabile"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:136
+msgid "Shipping only"
+msgstr "Solo spedizione"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:136
+msgctxt "Tax status"
+msgid "None"
+msgstr "Nessuna"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:136
+msgid ""
+"Define whether or not the entire product is taxable, or just the cost of "
+"shipping it."
+msgstr ""
+"Definisce se è tassabile l'intero prodotto o solo il costo di spedizione."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:137
+msgid "Tax Class"
+msgstr "Classe imposte"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:137
+msgid ""
+"Choose a tax class for this product. Tax classes are used to apply different "
+"tax rates specific to certain types of product."
+msgstr ""
+"Sceglie una classe di imposte per il prodotto. Si possono usare classi "
+"diverse per applicare imposte diverse a diversi tipi di prodotto."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:155
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:162
+msgid "Attributes"
+msgstr "Attributi"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:164
+msgid "Active?"
+msgstr "Attivo?"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:166
+msgid "Value(s):"
+msgstr "Valore/i:"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:166
+#, php-format
+msgid "Enter some text, some attributes by \"%s\" separating values."
+msgstr "Inserisci un elenco di attributi separati da \"%s\"."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:167
+msgid "Visible on the product page"
+msgstr "Visibile sulla pagina prodotto"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:168
+msgid "Use as Variation"
+msgstr "Usa come variante"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:178
+msgid "Add attribute"
+msgstr "Aggiungi attributo"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:180
+#: wcfm/products-manager/wcfm-view-products-manage.php:738
+#: wcfm/products-manager/wcfm-view-products-manage.php:801
+msgid "Add"
+msgstr "Aggiungi"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:193
+msgid "Variations"
+msgstr "Varianti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:196
+#, php-format
+msgid ""
+"Before you can add a variation you need to add some variation attributes on "
+"the Attributes tab. %sLearn more%s"
+msgstr ""
+"Prima di poter aggiungere una variante bisogna aggiungere gli attributi su "
+"cui queste si basano, nel tab Attributi. %sLeggi come fare%s"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:201
+msgid "Default Form Values:"
+msgstr "Valori form di default:"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:206
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:207
+msgid "Variations Bulk Options"
+msgstr "Opzioni in blocco per le varianti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:209
+msgid "Choose option"
+msgstr "Scegli opzione"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:211
+msgid "Enable all Variations"
+msgstr "Abilita tutte le varianti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:212
+msgid "Disable all Variations"
+msgstr "Disabilita tutte le varianti"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:214
+msgid "Set variations \"Downloadable\""
+msgstr "Imposta varianti \"Scaricabili\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:215
+msgid "Set variations \"Non-Downloadable\""
+msgstr "Imposta varianti \"Non scaricabili\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:218
+msgid "Set variations \"Virtual\""
+msgstr "Imposta varianti \"Virtuali\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:219
+msgid "Set variations \"Non-Virtual\""
+msgstr "Imposta varianti \"Non virtuali\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:222
+msgid "Pricing"
+msgstr "Prezzi"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:223
+msgid "Regular prices"
+msgstr "Prezzi normali"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:224
+msgid "Regular price increase"
+msgstr "Aumenta prezzo normale"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:225
+msgid "Regular price decrease"
+msgstr "Diminuisci prezzo normale"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:226
+msgid "Sale prices"
+msgstr "Prezzi in offerta"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:227
+msgid "Sale price increase"
+msgstr "Aumenta prezzi in offerta"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:228
+msgid "Sale price decrease"
+msgstr "Diminuisci prezzo in offerta"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:232
+msgid "ON \"Manage stock\""
+msgstr "Attiva \"Gestisci magazzino\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:233
+msgid "OFF \"Manage stock\""
+msgstr "Disattiva \"Gestisci magazzino\""
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:234
+msgid "Stock"
+msgstr "Magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:235
+msgid "Increase Stock"
+msgstr "Aumenta magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:236
+msgid "Set Status - In stock"
+msgstr "Imposta stato - In magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:237
+msgid "Set Status - Out of stock"
+msgstr "Imposta stato - Non disponibile"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:238
+msgid "Set Status - On backorder"
+msgstr "Imposta stato - In backorder"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:250
+msgid "Downloadable products"
+msgstr "Prodotti scaricabili"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:251
+msgid "Download limit"
+msgstr "Limite download"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:252
+msgid "Download expiry"
+msgstr "Scadenza download"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:262
+msgid "Enable"
+msgstr "Abilita"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:263
+#: wcfm/products-manager/wcfm-view-products-manage.php:539
+msgid "Virtual"
+msgstr "Virtuale"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:264
+msgid "Manage Stock"
+msgstr "Gestisci magazzino"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:268
+msgid "Regular Price"
+msgstr "Prezzo normale"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:269
+#: wcfm/products-manager/wcfm-view-products-manage.php:549
+msgid "Sale Price"
+msgstr "Prezzo in offerta"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:271
+#: wcfm/products-manager/wcfm-view-products-manage.php:551
+msgid "Upto"
+msgstr "Fino a"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:273
+msgid "Backorders?"
+msgstr "Backorder?"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:295
+msgid "Linked"
+msgstr "Correlati"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:300
+msgid "Up-sells"
+msgstr "Up-sell"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:300
+msgid ""
+"Up-sells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+"Gli up-sell sono prodotti che consigliate invece del prodotto attualmente "
+"visualizzato. Ad esempio, prodotti più convenienti, di qualità migliore o "
+"più costosi."
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:301
+msgid "Cross-sells"
+msgstr "Cross-sell"
+
+#: wcfm/products-manager/wcfm-view-products-manage-tabs.php:301
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current "
+"product."
+msgstr ""
+"I cross-sell sono prodotti che consigliate nel carrello, basandovi sul "
+"prodotto attualmente visualizzato."
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:48
+#: wcfm/products-manager/wcfm-view-products-manage.php:457
+msgid "Add Product"
+msgstr "Aggiungi prodotto"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:54
+msgid "You have reached your product limit!"
+msgstr "Hai raggiunto il limite di prodotti!"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:373
+#: wcfm/products-manager/wcfm-view-products-manage.php:385
+msgid "Same as parent"
+msgstr "Come genitore"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:374
+msgid "No shipping class"
+msgstr "Nessuna classe di spedizione"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:386
+#: wcfm/products-manager/wcfm-view-products-manage.php:387
+msgid "Standard"
+msgstr "Standard"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:416
+#: wcfm/products-manager/wcfm-view-products-manage.php:423
+msgid "Simple Product"
+msgstr "Prodotto semplice"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:416
+msgid "Variable Product"
+msgstr "Prodotto variabile"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:416
+msgid "Grouped Product"
+msgstr "Prodotto raggruppato"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:416
+msgid "External/Affiliate Product"
+msgstr "Prodotto esterno/affiliato"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:448
+msgid "Manage Product"
+msgstr "Gestisci prodotti"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:463
+msgid "Published"
+msgstr "Pubblicato"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:469
+msgid "Views"
+msgstr "Visualizzazioni"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:475
+#: wcfm/products-manager/wcfm-view-products-manage.php:1078
+msgid "Preview"
+msgstr "Anteprima"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:487
+#: wcfm/products-manager/wcfm-view-products-manage.php:491
+msgid "WP Admin View"
+msgstr "Vista amministratore WP"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:497
+msgid "Add New Product"
+msgstr "Aggiungi nuovo prodotto"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:497
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:502
+msgid "Duplicate Product"
+msgstr "Duplica prodotto"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:502
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:510
+msgid "No Featured"
+msgstr "Non in evidenza"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:513
+msgid "Mark Featured"
+msgstr "Metti in evidenza"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:541
+msgid "Product Title"
+msgstr "Titolo prodotto"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:546
+msgid "URL"
+msgstr "URL"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:546
+msgid "Enter the external URL to the product."
+msgstr "Inserisci il link esterno al prodotto."
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:547
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:547
+msgid "This text will be shown on the button linking to the external product."
+msgstr ""
+"Questo testo sarà visualizzato sul pulsante che porta al prodotto esterno."
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:549
+msgid "schedule"
+msgstr "calendario"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:615
+#: wcfm/products-manager/wcfm-view-products-manage.php:820
+msgid "Separate Product Tags with commas"
+msgstr "Separa i tag del prodotto con virgole"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:615
+#: wcfm/products-manager/wcfm-view-products-manage.php:622
+#: wcfm/products-manager/wcfm-view-products-manage.php:820
+#: wcfm/products-manager/wcfm-view-products-manage.php:827
+msgid ""
+"Product tags are descriptive labels you can add to your products. Popular "
+"search engines can use tags to get information about your store. You can add "
+"more than one tag separating them with a comma."
+msgstr ""
+"I tag del prodotto sono etichette descrittive che si possono aggiungere ai "
+"prodotti. I motori di ricerca più comuni li usano per estrarre informazioni "
+"relative allo store. Si possono aggiungere uno o più tag separandoli con "
+"virgole."
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:615
+#: wcfm/products-manager/wcfm-view-products-manage.php:820
+msgid "Choose from the most used tags"
+msgstr "Scegli tra i tag più usati"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:637
+#: wcfm/products-manager/wcfm-view-products-manage.php:842
+msgid "Separate Product with commas "
+msgstr "Separa prodotti con virgole "
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:722
+msgid "Add new category"
+msgstr "Aggiungi nuova categoria"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:728
+msgid "-- Parent category --"
+msgstr "-- Categoria genitore --"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:785
+msgid "Add new"
+msgstr "Aggiungi nuova"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:791
+msgid "-- Parent taxonomy --"
+msgstr "-- Tassonomia genitore --"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:894
+msgid ""
+"It is a translated product, so product meta fields are blocked for editing "
+"because WPML will copy its value from the original language."
+msgstr ""
+"È un prodotto tradotto, quindi i campi meta non possono essere modificati, "
+"perché WPML ne copia il valore dalla lingua originale."
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:1063
+#: wcfm/products-manager/wcfm-view-products-manage.php:1066
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr "Invia"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:1063
+#: wcfm/products-manager/wcfm-view-products-manage.php:1066
+msgid "Submit for Review"
+msgstr "Invia a revisione"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:1070
+msgid "Draft"
+msgstr "Bozza"
+
+#: wcfm/products-manager/wcfm-view-products-manage.php:1084
+msgid "View"
+msgstr "Visualizza"
+
+#: woocommerce/add-to-wishlist-button.php:13
+msgid "Add to Wishlist"
+msgstr "Aggiungi alla lista dei desideri"
+
+#: woocommerce/add-to-wishlist-button.php:16
+msgid "loading"
+msgstr "in caricamento"
+
+#: woocommerce/add-to-wishlist.php:21
+msgid "Add to Wishlist Wishlist"
+msgstr "Aggiungi alla lista dei desideri"
+
+#: woocommerce/add-to-wishlist.php:21
+msgid "Browse Wishlist"
+msgstr "Visualizza lista dei desideri"
+
+#: woocommerce/add-to-wishlist.php:27
+msgid "Check Wishlist"
+msgstr "Controlla lista dei desideri"
+
+#: woocommerce/single-product-reviews.php:31
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s recensione per %2$s"
+msgstr[1] "%1$s recensioni per %2$s"
+
+#: woocommerce/single-product-reviews.php:33
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr "Non ci sono ancora recensioni."
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Add a review"
+msgstr "Aggiungi una recensione"
+
+#: woocommerce/single-product-reviews.php:67
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Invia per primo una recensione di &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lascia una risposta a %s"
+
+#: woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "Devi essere <a href=\"%s\">collegato</a> per lasciare una recensione."
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your rating"
+msgstr "Il tuo voto"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Rate&hellip;"
+msgstr "Voto&hellip;"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Perfect"
+msgstr "Perfetto"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Good"
+msgstr "Buono"
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Average"
+msgstr "Medio"
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Not that bad"
+msgstr "Non male"
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Very poor"
+msgstr "Scarso"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your review"
+msgstr "La tua recensione"
+
+#: woocommerce/single-product-reviews.php:103
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Solo i clienti collegati che hanno comprato questo prodotto possono "
+"lasciarne una recensione."
+
+#: woocommerce/single-product.php:123
+msgid "Donated money will go to "
+msgstr "Le cifre donate andranno a "
+
+#: woocommerce/global/quantity-input.php:27
+#: woocommerce/global/quantity-input.php:29
+#, php-format
+msgid "%s quantity"
+msgstr "%s quantità"
+
+#: woocommerce/global/quantity-input.php:29
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Quantità"
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qtà"
+
+#: woocommerce/loop/add-to-cart.php:24 woocommerce/loop/add-to-cart.php:27
+#: woocommerce/single-product/add-to-cart/grouped.php:103
+#: woocommerce/single-product/add-to-cart/simple.php:47
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:29
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: woocommerce/loop/add-to-cart.php:30 woocommerce/loop/add-to-cart.php:38
+#: woocommerce/single-product/bid.php:82 woocommerce/single-product/bid.php:96
+msgid "Bid Now"
+msgstr "Fai un'offerta"
+
+#: woocommerce/loop/add-to-cart.php:41
+msgid "View Auction"
+msgstr "Visualizza asta"
+
+#: woocommerce/single-product/bid.php:16
+msgid "Your min bid is"
+msgstr "La tua offerta minima è"
+
+#: woocommerce/single-product/bid.php:16
+msgid "Your max bid is"
+msgstr "La tua offerta massima è"
+
+#: woocommerce/single-product/bid.php:21
+msgid "Item condition:"
+msgstr "Condizione oggetto:"
+
+#: woocommerce/single-product/bid.php:25
+msgid "Time left:"
+msgstr "Tempo rimanente:"
+
+#: woocommerce/single-product/bid.php:31 woocommerce/single-product/bid.php:120
+msgid "Auction ends:"
+msgstr "L'asta termina:"
+
+#: woocommerce/single-product/bid.php:32
+#, php-format
+msgid "Timezone: %s"
+msgstr "Fuso orario: %s"
+
+#: woocommerce/single-product/bid.php:32
+msgid "UTC "
+msgstr "UTC "
+
+#: woocommerce/single-product/bid.php:39
+msgid "Reserve price has not been met"
+msgstr "Il prezzo di riserva non è stato raggiunto"
+
+#: woocommerce/single-product/bid.php:43
+msgid "Reserve price has been met"
+msgstr "Il prezzo di riserva è stato raggiunto"
+
+#: woocommerce/single-product/bid.php:46
+msgid "This auction is <a href='#'>sealed</a>."
+msgstr "Questa asta è <a href='#'>al buio</a>."
+
+#: woocommerce/single-product/bid.php:52
+#, php-format
+msgid "Maximum bid for this auction is %s."
+msgstr "L'offerta massima per questa asta è %s."
+
+#: woocommerce/single-product/bid.php:54
+#, php-format
+msgid "Minimum bid for this auction is %s."
+msgstr "L'offerta minima per questa asta è %s."
+
+#: woocommerce/single-product/bid.php:60
+msgid "This is reverse auction."
+msgstr "Questa è un'asta al ribasso."
+
+#: woocommerce/single-product/bid.php:115
+msgid "Auction starts in:"
+msgstr "L'asta inizia tra:"
+
+#: woocommerce/single-product/bid.php:119
+msgid "Auction starts:"
+msgstr "L'asta inizia alle:  "
+
+#: woocommerce/single-product/product-image.php:54
+msgid "Awaiting product image"
+msgstr "In attesa dell'immagine prodotto"
+
+#: woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr "In offerta!"
+
+#: woocommerce/single-product/watchlist-link.php:19
+msgid "Remove Watchlist"
+msgstr "Rimuovi dagli oggetti che osservi"
+
+#: woocommerce/single-product/watchlist-link.php:21
+msgid "Add Watchlist"
+msgstr "Aggiungi agli oggetti che osservi"
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Questo prodotto al momento non è disponibile."
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr "Svuota"

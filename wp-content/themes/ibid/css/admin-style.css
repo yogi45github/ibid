@@ -1,0 +1,66 @@
+/*------------------------------------------------------------------
+[Dashboard Stylesheet]
+[Table of contents]
+
+1. Meta Fields
+2. Redux Framework
+-------------------------------------------------------------------*/
+
+/*1. Meta Fields*/
+.meta_box_label {
+    display: block;
+    float: left;
+    padding: 5px;
+    width: 25%;
+}
+.custom_metas > select {
+    width: 30%;
+}
+.custom_metas small {
+    font-weight: bold;
+    padding-left: 10px;
+}
+.metabox-page.custom_metas {
+    margin-bottom: 10px;
+}
+.vc_element-icon.modeltheme_shortcode{
+    background: url('../images/ModelTheme_logo.png');
+}
+.redux-message.redux-notice.notice {
+    display: none;
+}
+.eg-update-notice-wrap,
+.rs-update-notice-wrap,
+.redux-message.redux-notice.notice {
+    display: none;
+}
+
+/*2. Redux Framework*/
+.ibid_divider h3 {
+    font-size: 23px;
+    font-weight: 300;
+    margin: 10px !important;
+}
+.ibid_divider p {
+    display: none !important;
+}
+.ibid_divider *{
+    color: #fff;
+}
+.ibid_divider {
+    background: #232331 none repeat scroll 0 0;
+    border: 0 none;
+    color: #ffffff;
+    margin: 0;
+}
+
+/*Notice addons*/
+div#message.updated.dokan-message,
+#vc_license-activation-notice,
+.notice.notice-info.lvca-notice-rate,
+.fs-notice.fs-slug-simple-sitemap.fs-type-plugin,
+.notice.dokan-upgrade-promotional-notice,
+body .fs-notice.fs-slug-addons-for-visual-composer,
+#redux-header .rAds{
+    display: none !important;
+}

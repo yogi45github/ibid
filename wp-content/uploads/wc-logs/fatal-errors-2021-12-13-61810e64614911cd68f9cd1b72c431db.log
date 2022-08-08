@@ -1,0 +1,30 @@
+2021-12-13T05:29:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse207879_change_password_mail_message(), 3 passed in /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php on line 303 and exactly 4 expected in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:1767
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(303): wpse207879_change_password_mail_message(Array, Array, Array)
+#1 /var/www/html/php72/ibid1/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /var/www/html/php72/ibid1/wp-includes/user.php(2297): apply_filters('password_change...', Array, Array, Array)
+#3 /var/www/html/php72/ibid1/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(324): wp_update_user(Array)
+#4 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(303): WC_Form_Handler::save_account_details('')
+#5 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/php72/ibid1/wp-includes/plugin.php(470): WP_Ho in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1767
+
+2021-12-13T05:31:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse207879_change_password_mail_message(), 3 passed in /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php on line 303 and exactly 4 expected in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:1767
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(303): wpse207879_change_password_mail_message(Array, Array, Array)
+#1 /var/www/html/php72/ibid1/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /var/www/html/php72/ibid1/wp-includes/user.php(2297): apply_filters('password_change...', Array, Array, Array)
+#3 /var/www/html/php72/ibid1/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(324): wp_update_user(Array)
+#4 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(303): WC_Form_Handler::save_account_details('')
+#5 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/php72/ibid1/wp-includes/plugin.php(470): WP_Ho in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1767
+
+2021-12-13T05:31:54+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1771
+
+2021-12-13T05:31:56+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1771
+
+2021-12-13T05:32:07+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1771
+
+2021-12-13T05:32:09+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1771
+
+2021-12-13T05:32:11+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 1771
+

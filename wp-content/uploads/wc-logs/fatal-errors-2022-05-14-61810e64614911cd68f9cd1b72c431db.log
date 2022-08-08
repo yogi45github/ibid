@@ -1,0 +1,47 @@
+2022-05-14T12:33:53+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(356): vv_add_product('', '', 'vv_add_product')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(vv_add...', 'do_shortcode_ta...', '<!-- wp:shortco...')
+#3 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(305): do_shortcode('<!-- wp:shortco...')
+#4 /var/www/html/php72/ibid1/wp-includes/plugin.php(189): WP_Hook->apply_filters('<!-- wp:shortco...', Array)
+#5 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/base/widget-base.php(406): apply_filters('widget_text', '<!-- wp:shortco...', Array)
+#6 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/widgets/text-editor.php(416): Elementor\Widget_Base->parse_text_editor('<!-- wp:shortco...')
+#7 /var/www/html/php72/ibid1/wp-content/plugin in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 179
+
+2022-05-14T12:34:06+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(356): vv_add_product('', '', 'vv_add_product')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(vv_add...', 'do_shortcode_ta...', '<!-- wp:shortco...')
+#3 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(305): do_shortcode('<!-- wp:shortco...')
+#4 /var/www/html/php72/ibid1/wp-includes/plugin.php(189): WP_Hook->apply_filters('<!-- wp:shortco...', Array)
+#5 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/base/widget-base.php(406): apply_filters('widget_text', '<!-- wp:shortco...', Array)
+#6 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/widgets/text-editor.php(416): Elementor\Widget_Base->parse_text_editor('<!-- wp:shortco...')
+#7 /var/www/html/php72/ibid1/wp-content/plugin in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 179
+
+2022-05-14T12:34:15+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php:179
+Stack trace:
+#0 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(356): vv_add_product('', '', 'vv_add_product')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/php72/ibid1/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(vv_add...', 'do_shortcode_ta...', '<!-- wp:shortco...')
+#3 /var/www/html/php72/ibid1/wp-includes/class-wp-hook.php(305): do_shortcode('<!-- wp:shortco...')
+#4 /var/www/html/php72/ibid1/wp-includes/plugin.php(189): WP_Hook->apply_filters('<!-- wp:shortco...', Array)
+#5 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/base/widget-base.php(406): apply_filters('widget_text', '<!-- wp:shortco...', Array)
+#6 /var/www/html/php72/ibid1/wp-content/plugins/elementor/includes/widgets/text-editor.php(416): Elementor\Widget_Base->parse_text_editor('<!-- wp:shortco...')
+#7 /var/www/html/php72/ibid1/wp-content/plugin in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 179
+
+2022-05-14T12:48:16+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:48:32+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:48:59+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:51:09+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:52:13+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:52:50+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+
+2022-05-14T12:54:02+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/php72/ibid1/wp-content/themes/ibid-child/functions.php on line 184
+

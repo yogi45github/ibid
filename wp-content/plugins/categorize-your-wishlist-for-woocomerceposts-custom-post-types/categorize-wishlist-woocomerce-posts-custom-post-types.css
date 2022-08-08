@@ -1,0 +1,207 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+#CWWPCPT_btn {
+	float: right;
+	padding: 5px;
+	margin: 20px;
+}
+#CWWPCPT_category_select {
+	width: 50%;
+}
+.CWWPCPT_clear{
+	clear: both;
+}
+.CWWPCPT_select_cat{
+	width: 50%;
+	padding: 20px;
+}
+#new_wishlist_name {
+	padding: 10px;
+}
+.Wishlist_add {
+	padding: 10px;
+}
+.cwwpcpt-span{
+    display: inline-block;
+    width:100%;
+}
+.cwwpcpt-img { 
+    border: 0; 
+    vertical-align: middle; 
+    margin-right: 2px; 
+}
+.cwwpcpt-clear-fav{
+    width: 100%;
+    display: block;
+    clear: both;
+}
+.cwwpcpt-clear-fav .cwwpcpt-link{
+    background: #000;
+    padding: 5px 15px;
+    color: #fff;
+    display: inline-block;
+}
+.cwwpcpt-posts-widget{
+    margin-bottom: 30px;
+}
+
+/** List View Css **/
+ul.cwwpcpt-listview li ul{ 
+    list-style-image: url("./images/nested.png"); 
+    padding:5px 0 5px 18px; 
+    font-size:15px; 
+}
+ul.cwwpcpt-listview li ul li { 
+    color:#bfe1f1; 
+    margin-left:10px;
+}
+ul.cwwpcpt-listview li ul li a{
+    vertical-align: text-bottom;
+}
+ul.cwwpcpt-listview > li > a{
+    color: #000;
+}
+
+/** Grid View css **/
+.cwwpcpt-row{
+    display: inline-block;
+    width: 100%;
+    margin: 10px 0;
+}
+.cwwpcpt-masonry-layout__panel .cwwpcpt-gridview-title{
+    padding: 15px;
+}
+.cwwpcpt-masonry-layout__panel .cwwpcpt-gridview-title a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.cwwpcpt-masonry-layout__panel .cwwpcpt-gridview-img{
+    text-align: center;
+}
+.cwwpcpt-masonry-layout__panel .cwwpcpt-link{
+    float: right;
+    margin-right: 15px;
+}
+.cwwpcpt-masonry-layout {
+  column-count: 3;
+  column-gap: 0;
+}
+.cwwpcpt-masonry-layout__panel {
+  break-inside: avoid;
+  padding: 5px;
+  display: inline-block;
+  width: 100%;
+}
+.cwwpcpt-masonry-layout__panel-content {
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.19);
+  display: inline-block;
+  width: 100%;
+}
+.cwwpcpt-gridview .cwwpcpt-clear-fav{
+    margin: 15px auto 0;
+    text-align: center;
+}
+.cwwpcpt-buy-now{
+    background-image: url(./images/shopping-cart.png);
+    background-repeat: no-repeat;
+    padding: 8px 10px 8px 35px;
+    background-position: 6% center;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+/** Post View Css **/
+.cwwpcpt-postview .cwwpcpt-postviewimg{
+    width: 13%;
+    float: left;
+    margin-right: 20px;
+}
+.cwwpcpt-postview{
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+.cwwpcpt-postview .cwwpcpt-postview-info{
+    display: inline-block;
+    width: 100%;
+}
+.cwwpcpt-postview .cwwpcpt-postviewtitle {
+    width: 85%;
+    float: left;
+}
+.cwwpcpt-postview .cwwpcpt-postviewtitle a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.cwwpcpt-postview .cwwpcpt-link{
+    clear: left;
+    display: block;
+    float: right;
+}
+.cwwpcpt-postview .cwwpcpt-buy-now{
+    margin-left: 0px;
+}
+
+/** Responsive Css **/
+
+
+@media only screen and (max-width: 768px) {
+.cwwpcpt-masonry-layout {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+}
+.cwwpcpt-postview .cwwpcpt-postviewimg{
+    width: 100%;
+    float: none;
+}
+}
+@media only screen and (max-width: 480px) {
+.cwwpcpt-masonry-layout {
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+    }
+}

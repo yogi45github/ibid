@@ -1,0 +1,12 @@
+2021-11-15T05:28:04+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/php72/ibid/wp-content/themes/ibid/content-single.php on line 128
+
+2021-11-15T05:28:16+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/php72/ibid/wp-content/themes/ibid/content-single.php on line 128
+
+2021-11-15T08:03:31+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1645
+
+2021-11-15T08:11:21+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1648
+
+2021-11-15T08:26:18+00:00 CRITICAL syntax error, unexpected '$output' (T_VARIABLE) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1650
+
+2021-11-15T08:26:18+00:00 CRITICAL syntax error, unexpected '$output' (T_VARIABLE) in /var/www/html/php72/ibid/wp-content/themes/ibid-child/functions.php on line 1650
+

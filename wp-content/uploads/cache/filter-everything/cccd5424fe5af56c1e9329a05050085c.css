@@ -1,0 +1,153 @@
+.wpc-filters-section:not(.wpc-filter-post_meta_num,.wpc-filter-layout-dropdown) .wpc-filter-content:not(.wpc-filter-has-hierarchy){
+                        max-height: 350px;
+                        overflow-y: auto;
+                }
+.ui-slider-horizontal .ui-slider-range{
+                        background-color: #0570e2;
+                    }
+                
+.wpc-spinner:after {
+                        border-top-color: #0570e2;
+                    }
+.theme-Avada .wpc-filter-product_visibility .star-rating:before,
+                .wpc-filter-product_visibility .star-rating span:before{
+                    color: #0570e2;
+                }
+.theme-twentyfourteen .widget-area input.wpc-label-input:checked+label span.wpc-filter-label-wrapper,
+                .widget-area input.wpc-label-input:checked+label span.wpc-filter-label-wrapper, 
+                .wpc-filters-widget-main-wrapper input.wpc-label-input:checked+label span.wpc-filter-label-wrapper{
+                        background-color: #0570e2;
+                }
+.widget-area input.wpc-label-input:checked+label, 
+                input.wpc-label-input:checked+label{
+                        border-color: #0570e2;
+                }
+#secondary .wpc-filters-labels li.wpc-term-item input:checked+label a,
+                #secondary .widget-area input.wpc-label-input:checked+label span.wpc-filter-label-wrapper,
+                .widget-area input.wpc-label-input:checked+label span.wpc-filter-label-wrapper, 
+                .wpc-filters-widget-main-wrapper input.wpc-label-input:checked+label span.wpc-filter-label-wrapper,
+                .widget-area .wpc-filters-labels li.wpc-term-item input:checked+label a, 
+                .wpc-filters-widget-main-wrapper .wpc-filters-labels li.wpc-term-item input:checked+label a,
+                body .wpc-filters-labels li.wpc-term-item input:checked+label a,
+                body#colibri .wpc-filters-labels li.wpc-term-item input:checked+label a,
+                body#colibri .widget-area input.wpc-label-input:checked+label span.wpc-filter-label-wrapper{
+                        color: #f5f5f5;
+                }
+#secondary .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a,
+                .widget-area .widget .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a, 
+                body .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a, 
+                body#colibri .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a,
+                .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a{
+                    background-color: #0570e2;
+                    color: #f5f5f5;
+                    border-color: #0570e2;
+                }
+.widget-area .widget .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a:hover, 
+                .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a:hover{
+                    opacity: 0.9;
+                }
+.widget-area .widget .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a:active, 
+                .wpc-filter-chips-list li.wpc-filter-chip:not(.wpc-chip-reset-all) a:active{
+                    opacity: 0.75;
+                }
+.wpc-filter-chips-list a:hover .wpc-chip-remove-icon, 
+                .widget-area .widget .wpc-filter-chips-list a:hover .wpc-chip-remove-icon{
+                    color: #f5f5f5;
+                }
+.star-rating span,
+                .star-rating span:before{
+                    color: #0570e2;
+                }
+@media screen and (min-width: 768px) {
+.theme-twentyfourteen .widget-area input.wpc-label-input+label:hover span.wpc-filter-label-wrapper,
+                    .widget-area input.wpc-label-input+label:hover span.wpc-filter-label-wrapper, 
+                    .wpc-filters-widget-main-wrapper input.wpc-label-input+label:hover span.wpc-filter-label-wrapper{
+                        color: #f5f5f5;
+                        background-color: #0570e2;
+                    }
+#secondary .wpc-filters-labels li.wpc-term-item input+label:hover a,
+                    body .wpc-filters-labels li.wpc-term-item input+label:hover a,
+                    body#colibri .wpc-filters-labels li.wpc-term-item input+label:hover a,
+                    .widget-area .wpc-filters-labels li.wpc-term-item input+label:hover a, 
+                    .wpc-filters-widget-main-wrapper .wpc-filters-labels li.wpc-term-item input+label:hover a{
+                        color: #f5f5f5;
+                    }
+.widget-area input.wpc-label-input+label:hover, 
+                    .wpc-filters-widget-main-wrapper input.wpc-label-input+label:hover{
+                        border-color: #0570e2;
+                    }
+}
+@media screen and (max-width: 768px) {
+body #main,
+                        body #content .col-full,
+                        .woocommerce-page .content-has-sidebar,
+                        .woocommerce-page .has-one-sidebar,
+                        .woocommerce-page #main-sidebar-container,
+                        .woocommerce-page .theme-page-wrapper,
+                        .woocommerce-page #content-area,
+                        .theme-jevelin.woocommerce-page .woocomerce-styling,
+                        .woocommerce-page .content_wrapper,
+                        .woocommerce-page #col-mask,
+                        body #main-content .content-area {
+                            -js-display: flex;
+                            display: -webkit-box;
+                            display: -webkit-flex;
+                            display: -moz-box;
+                            display: -ms-flexbox;
+                            display: flex;
+                            -webkit-box-orient: vertical;
+                            -moz-box-orient: vertical;
+                            -webkit-flex-direction: column;
+                            -ms-flex-direction: column;
+                            flex-direction: column;
+                        }
+                        body #primary,
+                        .woocommerce-page .has-one-sidebar > section,
+                        .woocommerce-page .theme-content,
+                        .woocommerce-page #left-area,
+                        .woocommerce-page #content,
+                        .woocommerce-page .sections_group,
+                        .woocommerce-page .content-box,
+                        body #main-sidebar-container #main {
+                            -webkit-box-ordinal-group: 2;
+                            -moz-box-ordinal-group: 2;
+                            -ms-flex-order: 2;
+                            -webkit-order: 2;
+                            order: 2;
+                        }
+                        body #secondary,
+                        .woocommerce-page .has-one-sidebar > aside,
+                        body aside#mk-sidebar,
+                        .woocommerce-page #sidebar,
+                        .woocommerce-page .sidebar,
+                        body #main-sidebar-container #sidebar {
+                            -webkit-box-ordinal-group: 1;
+                            -moz-box-ordinal-group: 1;
+                            -ms-flex-order: 1;
+                            -webkit-order: 1;
+                            order: 1;
+                        }
+                    
+                        /*second method first method solve issue theme specific*/
+                        .woocommerce-page:not(.single,.page) .btWithSidebar.btSidebarLeft .btContentHolder,
+                        body .theme-generatepress.woocommerce #content {
+                            display: table;
+                        }
+                        body .btContent,
+                        body .theme-generatepress.woocommerce #primary {
+                            display: table-footer-group;
+                        }
+                        body .btSidebar,
+                        body .theme-generatepress.woocommerce #left-sidebar {
+                            display: table-header-group;
+                        }
+}
+@media screen and (min-width: 768px) {
+html.is-active .wpc-spinner{
+                                display: block;
+                            }}
+@media screen and (min-width: 768px) {
+html.is-active .wpc-filters-overlay{
+                            opacity: .15;
+                            background: #000000;
+                        }}

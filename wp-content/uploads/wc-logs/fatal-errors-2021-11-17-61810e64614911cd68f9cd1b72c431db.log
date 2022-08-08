@@ -1,0 +1,48 @@
+2021-11-17T07:34:38+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_title() in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php:112
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/template.php(772): require()
+#1 /var/www/html/php72/ibid/wp-includes/template.php(716): load_template('/var/www/html/p...', false, Array)
+#2 /var/www/html/php72/ibid/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/html/php72/ibid/wp-content/themes/ibid/single.php(15): get_template_part('content', 'single')
+#4 /var/www/html/php72/ibid/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/php72/ibid/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php on line 112
+
+2021-11-17T07:35:01+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_the_title() in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php:112
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/template.php(772): require()
+#1 /var/www/html/php72/ibid/wp-includes/template.php(716): load_template('/var/www/html/p...', false, Array)
+#2 /var/www/html/php72/ibid/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/html/php72/ibid/wp-content/themes/ibid/single.php(15): get_template_part('content', 'single')
+#4 /var/www/html/php72/ibid/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/php72/ibid/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php on line 112
+
+2021-11-17T07:35:38+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::the_title() in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php:112
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/template.php(772): require()
+#1 /var/www/html/php72/ibid/wp-includes/template.php(716): load_template('/var/www/html/p...', false, Array)
+#2 /var/www/html/php72/ibid/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/html/php72/ibid/wp-content/themes/ibid/single.php(15): get_template_part('content', 'single')
+#4 /var/www/html/php72/ibid/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/php72/ibid/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php on line 112
+
+2021-11-17T07:35:38+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::the_title() in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php:112
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-includes/template.php(772): require()
+#1 /var/www/html/php72/ibid/wp-includes/template.php(716): load_template('/var/www/html/p...', false, Array)
+#2 /var/www/html/php72/ibid/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/html/php72/ibid/wp-content/themes/ibid/single.php(15): get_template_part('content', 'single')
+#4 /var/www/html/php72/ibid/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/php72/ibid/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/php72/ibid/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/php72/ibid/wp-content/themes/ibid-child/content-single.php on line 112
+

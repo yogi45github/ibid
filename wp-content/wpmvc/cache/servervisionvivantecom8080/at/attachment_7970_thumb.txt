@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:91:"https://server.visionvivante.com:8080/ibid/wp-content/uploads/2021/10/7970-gif1-150x150.gif";s:10:"write_time";i:1634544819;s:10:"expired_in";i:2592000;s:12:"expired_time";i:1637136819;}

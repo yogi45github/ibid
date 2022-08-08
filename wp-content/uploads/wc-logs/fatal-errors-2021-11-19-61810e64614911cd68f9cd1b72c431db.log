@@ -1,0 +1,139 @@
+2021-11-19T12:28:31+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:28:37+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:28:37+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:28:52+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:29:02+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:29:31+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:29:54+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:30:23+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:30:28+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:30:38+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:32:21+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:32:40+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:35:06+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:35:53+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:36:14+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T12:36:43+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Error saving action: Duplicate entry '0' for key 'PRIMARY' in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFac in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 44
+
+2021-11-19T14:04:52+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:694
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(617): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ActionScheduler_QueueRunner->run('Async Request')
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/php72/ibid/wp in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 694
+
+2021-11-19T14:05:59+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:694
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(617): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ActionScheduler_QueueRunner->run('Async Request')
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/php72/ibid/wp in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 694
+
+2021-11-19T14:12:43+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:694
+Stack trace:
+#0 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(617): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(303): ActionScheduler_QueueRunner->run('Async Request')
+#4 /var/www/html/php72/ibid/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/php72/ibid/wp in /var/www/html/php72/ibid/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 694
+
